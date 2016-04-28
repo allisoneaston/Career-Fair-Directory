@@ -1,0 +1,174 @@
+%\newcommand\defaultpaper{
+%	\setlength{\voffset}{-1in}
+%	\setlength{\headsep}{4pt}
+%	\setlength{\headheight}{0in}
+%	\setlength{\topmargin}{0pt}
+%	\setlength{\footskip}{5pt}
+%	\setlength{\hoffset}{-1in}
+%	\setlength{\oddsidemargin}{0pt}
+%	\setlength{\evensidemargin}{0pt}
+%	\setlength{\marginparsep}{0pt}
+%	\setlength{\marginparwidth}{0pt}
+%	\setlength{\parindent}{0pt}
+%}
+%
+%\newcommand\calculatepaper{
+%	\setlength{\textheight}{\paperheight}
+%	\addtolength{\textheight}{-\headsep}
+%	\addtolength{\textheight}{-\headheight}
+%	\addtolength{\textheight}{-\topmargin}
+%	\addtolength{\textheight}{-\footskip}
+%	\addtolength{\textheight}{-1in}
+%	\addtolength{\textheight}{-\voffset}
+%	 
+%	\setlength{\textwidth}{\paperwidth}
+%	\addtolength{\textwidth}{-1in}
+%	\addtolength{\textwidth}{-\hoffset}
+%	%\addtolength{\textwidth}{-\marginparsep}
+%	\addtolength{\textwidth}{-\evensidemargin}
+%}
+
+\newcommand\setupdirectory{
+	\usepackage{multicol}
+	\usepackage{hyperref}
+	\usepackage[top=0in,inner=0in,outer=0in,bottom=5pt,twoside]{geometry}
+	\hypersetup{colorlinks=true,linkcolor=black,urlcolor=black}
+	\usepackage[T1]{fontenc}
+	\setlength{\parindent}{0pt}
+	\usepackage{supertabular}
+	\usepackage{float}
+	\usepackage{paralist}
+	\usepackage{fancyhdr}
+  	\usepackage[export]{adjustbox}
+	\usepackage{fontspec}
+	\usepackage[usenames,dvipsnames]{xcolor}
+	\usepackage{tikz}
+	\usepackage{rotating}
+	\usepackage{ifthen}
+	\usepackage{ragged2e}
+	\usepackage{tabularx}
+	\setmainfont{Palatino Linotype}
+	\usepackage{graphicx}
+	\graphicspath{ {../Directory_Images/}}
+	\pagestyle{fancy}
+	\renewcommand{\headrulewidth}{0pt}
+	\fancyhead{}
+	\fancyfoot{}
+	\setlength{\columnseprule}{0pt}
+	\definecolor{desiredgray}{rgb}{0.6,0.6,0.6}
+
+}
+
+
+\newcommand\startcompanysection{
+	\newgeometry{left=0pt,outer=10pt,bottom=10pt,includehead,headsep=10pt,headheight=1.6in,top=0in,twoside=false}
+	\fancyhead[L]{
+		\begin{tikzpicture}[remember picture,overlay]
+   			 \node[yshift=-\headheight] at (current page.north west)
+      				{\begin{tikzpicture}[remember picture,overlay]
+       					 \draw[fill=desiredgray,draw=desiredgray] (0,0) rectangle
+         				 	(\paperwidth,\headheight);
+       				\end{tikzpicture}
+      			};
+		\end{tikzpicture}
+	    \includegraphics[height=.8in]{SWE_SWEGear_white}
+        \vspace{2em}
+	}
+	\fancyhead[C]{}
+	\fancyhead[R]{\includegraphics[height=1.5in]{RotatedBentwWords_reversed}\hspace{1em}}
+	 \fontsize{10}{12}\selectfont
+}
+\newcommand\startsponsorsection{
+	\startcompanysection
+	\newgeometry{left=0pt,right=10pt,bottom=10pt,includehead,headsep=20pt,headheight=1.6in,top=0in,twoside=false}
+}
+	
+
+\newcommand\startforewardsection{
+
+	\newgeometry{inner=.25in,outer=1.1in,bottom=5pt,top=.25in,twoside}
+
+\fancyhead{}
+\fancyfoot{}
+\fancyhead[LE]{\begin{tikzpicture}[remember picture,overlay]
+    \node at (current page.south west)
+      {\begin{tikzpicture}[remember picture,overlay]
+        \draw[fill=desiredgray,draw=desiredgray] (0,0) rectangle
+          (1in,\paperheight);
+       \end{tikzpicture}
+      };
+ \node[xshift=2in-9pt] at (current page.west)
+      {\begin{minipage}{.5\textwidth}
+       { \begin{sideways}\fontspec{Bookman Old Style} \fontsize{72}{86}\selectfont \bf \color{white}Career Fair 2015\end{sideways}}
+       \end{minipage}
+      };
+	\end{tikzpicture}}
+\fancyhead[RO]{\begin{tikzpicture}[remember picture,overlay]
+    \node[xshift=-1in] at (current page.south east)
+      {\begin{tikzpicture}[remember picture,overlay]
+        \draw[fill=desiredgray,draw=desiredgray] (0,0) rectangle
+          (1in,\paperheight);
+       \end{tikzpicture}
+      };
+ \node[xshift=1in-9pt] at (current page.east)
+      {\begin{minipage}{.5\textwidth}
+       { \begin{turn}{-90}\fontspec{Bookman Old Style} \fontsize{72}{86}\selectfont \bf \color{white}Career Fair 2015\end{turn}}
+       \end{minipage}
+      };
+	\end{tikzpicture}}
+ \fontsize{12}{14}\selectfont
+}
+
+\newcommand\notepages{
+	{\fontspec{Bookman Old Style} \fontsize{16}{19}\selectfont \bf Notes}\\
+	\newpage
+	\ifthenelse{\isodd{\thepage}}
+	{{\fontspec{Bookman Old Style} \fontsize{16}{19}\selectfont \bf Notes}\\
+	\newpage}
+	{}
+}
+
+\makeatletter
+\def\ScaleIfNeeded{%
+  \ifdim\Gin@nat@width>\linewidth
+    \linewidth
+  \else
+    \Gin@nat@width
+  \fi
+}
+
+\newcommand\backcover{
+
+	\newgeometry{inner=.25in,outer=1.1in,bottom=5pt,top=.25in,twoside}
+
+\fancyhead{}
+\fancyfoot{}
+\fancyhead[LE]{\begin{tikzpicture}[remember picture,overlay]
+    \node at (current page.south west)
+      {\begin{tikzpicture}[remember picture,overlay]
+        \draw[fill=Blue,draw=Blue] (0,0) rectangle
+          (1in,\paperheight);
+       \end{tikzpicture}
+      };
+ \node[xshift=2in-9pt] at (current page.west)
+      {\begin{minipage}{.5\textwidth}
+       { \begin{sideways}\fontspec{Bookman Old Style} \fontsize{72}{86}\selectfont \bf \color{white}Career Fair 2015\end{sideways}}
+       \end{minipage}
+      };
+	\end{tikzpicture}}
+\fancyhead[RO]{\begin{tikzpicture}[remember picture,overlay]
+    \node[xshift=-1in] at (current page.south east)
+      {\begin{tikzpicture}[remember picture,overlay]
+        \draw[fill=Blue,draw=Blue] (0,0) rectangle
+          (1in,\paperheight);
+       \end{tikzpicture}
+      };
+ \node[xshift=1in-9pt] at (current page.east)
+      {\begin{minipage}{.5\textwidth}
+       { \begin{turn}{-90}\fontspec{Bookman Old Style} \fontsize{72}{86}\selectfont \bf \color{white}Career Fair 2015\end{turn}}
+       \end{minipage}
+      };
+	\end{tikzpicture}}
+ \fontsize{12}{14}\selectfont
+}
+\makeatother

@@ -1,0 +1,2596 @@
+\documentclass[twoside]{article}
+	\input{../Directory_Tex_Files/AuxilliaryStuff.tex}
+	\setupdirectory
+	\begin{document}
+	\input{../Directory_Tex_Files/FrontPage.tex}
+	\startforewardsection
+	{\fontspec{Bookman Old Style} \fontsize{16}{19}\selectfont \bf Welcome}\\Participants of the 2013 Society of Women Engineers and Tau Beta Pi Career Fair, \\
+
+	We would like to extend a warm welcome to all the corporate representatives and University of Michigan students attending the 29\textsuperscript{th} Annual SWE/TBP Career Fair. We are pleased to provide this opportunity to bring companies and students together. \\
+
+	SWE and TBP are sponsors of several events throughout the year. These events provide students with the opportunity to network with industry representatives through presentations at meetings, banquets, Corporate Information Sessions, corporate luncheons, a Professional Development Day, as well as several other college-wide events. We hope you enjoy the Career Fair and encourage you to consider these events in the future.  \\
+
+	Thank you for participating in this year's Career Fair!\\
+
+	Sincerely, \begin{multicols}{2}
+	\begin{minipage}{\columnwidth}
+			\includegraphics{sig1}\\
+			Mike Boyd\\
+			TBP Career Fair Director\\
+			\end{minipage}
+\begin{minipage}{\columnwidth}
+			\includegraphics{sig2}\\
+			Emily Carroll\\
+			SWE Career Fair Director\\
+			\end{minipage}
+\begin{minipage}{\columnwidth}
+			\includegraphics{sig3}\\
+			Natalie Eyke\\
+			TBP Career Fair Director\\
+			\end{minipage}
+\begin{minipage}{\columnwidth}
+			\includegraphics{sig4}\\
+			Christie Rockwell\\
+			SWE Career Fair Director\\
+			\end{minipage}
+\end{multicols}\begin{multicols}{2}
+	\begin{minipage}{\columnwidth}
+	{\bf Directory and Registration}\\
+	Lauren Bilbo\\
+	Mike Hand\\
+	Ariel Rose\\
+	
+\end{minipage}
+	\begin{minipage}{\columnwidth}
+	{\bf Hospitality}\\
+	Kelsey Hockstad\\
+	Nadine Karaa\\
+	SOMEONE\\
+	
+\end{minipage}
+	\begin{minipage}{\columnwidth}
+	{\bf Operations}\\
+	SOMEONE\\
+	SOMEONE\\
+	SOMEONE\\
+	
+\end{minipage}
+	\begin{minipage}{\columnwidth}
+	{\bf Publicity}\\
+	SOMEONE\\
+	SOMEONE\\
+	SOMEONE\\
+	
+\end{minipage}
+	\begin{minipage}{\columnwidth}
+	{\bf Receptions}\\
+	SOMEONE\\
+	SOMEONE\\
+	SOMEONE\\
+	
+\end{minipage}
+	\begin{minipage}{\columnwidth}
+	{\bf Volunteer Coordinators}\\
+	Catherine Hu\\
+	Tae-Hyung Kang\\
+	Kyle Lady\\
+	
+\end{minipage}
+	\begin{minipage}{\columnwidth}
+	{\bf Webmaster}\\
+	Jonathan Pevarnek\\
+	
+\end{minipage}
+	\end{multicols}\newpage{\fontspec{Bookman Old Style} \fontsize{20}{24}\selectfont \bf Message from Corporate Sponsor\\Dow Chemical Company}\\~\\Hello UM Engineering Students! \\ ~ \\ ~ Dow Chemical is proud to be a sponsor of the corporate directory for the 2012 SWE/TBP Engineering Career Fair. University of Michigan students are "leaders and best" and every year we look forward to participating in Career Fair events on campus, offering young engineers new opportunities, and helping you make a difference. \\ ~ \\ ~ Dow combines the power of science and technology to passionately innovate what is essential to human progress. The Company connects chemistry and innovation with the principles of sustainability to help address many of the world’s most challenging problems such as the need for clean water, renewable energy generation and conservation, and increasing agricultural productivity. Dow’s diversified industry-leading portfolio of specialty chemical, advanced materials, agrosciences and plastics businesses delivers a broad range of technology-based products and solutions to customers across the globe and in high growth sectors such as electronics, water, energy, coatings and agriculture. In 2011, Dow had annual sales of \$60 billion and employed approximately 52,000 people worldwide. The Company’s more than 5,000 products are manufactured at 197 sites in 36 countries. \\ ~ \\ ~ We believe the diversity our people bring to the workplace is our strength. We value differing experiences, backgrounds and perspectives and foster an inclusive workplace. We are looking for people who will take risks, explore new ideas, collaborate and lead courageously - people who want to make a difference! \\ ~ \\ ~ Please visit us at Career Fair on Monday, September 24th and talk to our recruiters. We are recruiting for co-op, intern, and full-time positions for most engineering disciplines. We look forward to talking to you about the many exciting opportunities available within Dow. You can find more information about our industries and opportunities at Dow by visiting us on the web at \url{www.Dow.com.} \\ ~ \\ ~ We look forward to seeing you! \\ ~ \\ ~ Sincerely, \\ ~ \\ ~ The Dow Chemical Company University of Michigan Recruiting Team \\ ~\begin{center}\includegraphics{Sponsor1}\end{center}\newpage{\fontspec{Bookman Old Style} \fontsize{20}{24}\selectfont \bf Message from Corporate Sponsor\\Shell}\\~\\University of Michigan Engineering Students: \\ ~ \\ ~ Did you know that by 2050, global energy demand could double? To help us supply the world’s energy needs, we require the best technical minds from across the globe. That is why Shell continually recruits from the University of Michigan, and it’s why we are proud to sponsor the corporate directory for the 2012 SWE/TBP Engineering Career Fair. \\ ~ \\ ~ We hope you find this directory helpful as you navigate through multiple career opportunities. We also hope that you will consider Shell when it comes time to make your employment or internship decisions. \\ ~ \\ ~ Shell is a global group of energy and petrochemical companies, employing approximately 90,000 people and operating in more than 80 countries and territories. In the United States, Shell has operations in 50 states and employs about 20,000 people. Shell is a leading oil and gas producer in the deepwater Gulf of Mexico, a recognized pioneer in oil and gas exploration and production technology and one of America’s leading oil and natural gas producers, gasoline and natural gas marketers and petrochemical manufacturers. \\ ~ \\ ~ We’re currently creating the world’s first floating liquefied natural gas facility – Prelude FLNG. This is a revolution in natural gas production, and it will help unlock new energy resources. In June 2011, Pearl GTL, the world’s largest gas-to-liquids plant, made its first shipment of GTL Gasoil. This GTL technology is helping to meet the world’s growing demand for cleaner burning energy. But our advanced technologies are not the only reason to consider Shell. \\ ~ \\ ~ Shell has recently been named a “Top 100 IDEAL Employer.” One of the reasons for this recognition is our world-class graduate program. As a graduate at Shell, whatever department you work in, you can expect to make an impact on innovative projects that really matter, helping us find solutions to the biggest of challenges in the most unlikely of ways, all while being supported by coaches and mentors to help you succeed. \\ ~ \\ ~ If you have the ability to think big and want to join a team of trusted and supportive colleagues, stop by the Shell booth at the career fair, or visit \url{www.shell.us/careers.} \\ ~ \\ ~ Sincerely, \\ ~ The Shell University of Michigan Recruiting Team \\ ~\begin{center}\includegraphics{Sponsor2}\end{center}\newpage{\fontspec{Bookman Old Style} \fontsize{20}{24}\selectfont \bf Message from Corporate Sponsor\\Workforce Software}\\~\\Dear UM Engineering Students, \\ ~ \\ ~ Do you want a job or do you want a career? If you prefer the latter, keep reading… \\ ~ \\ ~ Founded by University of Michigan alumni, headquartered in Livonia MI, and with an Ann Arbor development office, WorkForce Software is one of the fastest growing software product companies in the booming human capital management space. Formed in 1999 with a keen focus on technical innovation, WorkForce Software has grown steadily – year-over-year – by every possible measure: revenues, customers, product portfolio, and employee base. Today our products are at work around the globe, in use by hundreds of thousands of employees on a daily basis, and play an integral role in the day-to-day operations of some of the world’s biggest industries and brands, including most US nuclear power plants, Blizzard Entertainment, major universities, Liberty Mutual insurance, and hundreds more. 2011 was a record-breaking year for us and, at current course and speed, 2012 is on track to become even bigger. \\ ~ \\ ~ But enough about us… let’s talk about YOU… \\ ~ \\ ~ You’re passionate about technology. You want to be part of a strong development team that builds great products. You love being challenged and learning from top-notch peers. You understand the power and potential of Java, HTML5, the cloud, and mobile OS platforms. You understand that technology is a means to an end and that, in the right hands, technology can transform businesses and even change lives. But most of all, you know that you don’t want to be just another cog in the wheel. You want to make a difference. \\ ~ \\ ~ At WorkForce Software, we can offer you an opportunity to leave your mark on the company from day one. You’ll come on-board, hit the ground running, and begin working on projects that will appear on desktops, smartphones, and tablets around the world. \\ ~ \\ ~ If this sounds good – and you’re up to the challenge – check us out online and learn more about who we are, what we do, and the customers we serve. If you like what you see, visit us on Monday, September 24th and meet with current members of the WorkForce Software team. \\ ~ \\ ~ Best regards, \\ ~ \\ ~ Ken Olson \\ ~ VP, Software Development \\ ~ WorkForce Software \\ ~ \url{www.workforcesoftware.com/careers}\begin{center}\includegraphics{Sponsor3}\end{center}\newpage\input{../Directory_Tex_Files/MapAndShit.tex}\startcompanysection
+	\fancyhead[C]{ {\fontspec{Bookman Old Style} \fontsize{40}{48}\selectfont \bf\color{white}Career Fair 2013}\\[12pt]
+	{\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Monday, September 23}\\
+	}
+	\fancyhead[C]{ {\fontspec{Bookman Old Style} \fontsize{40}{48}\selectfont \bf\color{white}Career Fair 2013}\\[12pt]
+	{\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Monday, September 23}\\
+	\begin{tikzpicture}[remember picture,overlay]
+	\node[yshift=-\headheight-10pt] at (current page.north)
+	{\fontsize{16}{18}\selectfont \bf Sponsors};
+	\end{tikzpicture}
+	}
+	\begin{center}\begin{multicols}{2}
+	\begin{minipage}{.95\columnwidth}{\Large\bf apple inc }\\
+	\url{www.apple.com}\\
+	Apple Inc. is an American multinational corporation that designs and sells consumer electronics, computer software, and personal computers.\\
+	\emph{Majors:} ME, CEE, CSE, CE, EE, EP\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf Barracuda Networks }\\
+	\url{www.barracuda.com}\\
+	Barracuda Networks simplifies IT and protects businesses with affordable, easy-to-use solutions. The company's portfolio spans security, networking and data protection, including offerings to stop email and Web threats, improve application delivery and network access, message archiving and backup. We are a growing, mid-sized global business with a very entrepreneurial spirit.\\
+	\emph{Majors:} CSE, EE, EP, CE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf BP }\\
+	\url{www.bp.com/uscollegecareers}\\
+	BP is one of the world's largest energy companies, providing its customers with fuel for transportation and energy for heat and light. BP employs approximately 97,000 people worldwide and more than 33,000 in the United States. BP's family of brands includes Amoco, ampm, ARCO, BP and Castrol. BP is also among the world's most progressive large enterprises. We are widely known as the first energy company to acknowledge the need for precautionary action to reduce greenhouse gas emissions. Today BP continues to lead the effort to meet the world's growing demand for sustainable, environmentally responsible energy. BP in the U.S. BP is the leading producer of oil and natural gas in the United States, and the largest investor in U.S. energy development. Since 2001, BP has invested about \$30 billion in the United States, including major investments to increase existing energy sources, extend energy supplies and develop new low-carbon technologies. BP employs more than 33,000 people in the U.S. and has \$40 billion in fixed assets. Every year, we market more than 15 billion gallons of gasoline through BP-, ARCO- and Amoco-branded retail outlets. BP is one of the largest blenders and marketers of biofuels in the U.S. Last year, BP blended 718 million gallons of ethanol with gasoline, a 25 percent increase from the previous year. Today, BP biofuels are available in more than 20 states.\\
+	\emph{Majors:} ME, CEE, ChE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf Cisco Systems }\\
+	\url{www.cisco.com}\\
+	Cisco is the worldwide leader in networking that transforms how people connect, communicate, and collaborate. Businesses of all sizes, governments, service providers, and consumers use Cisco hardware, software, and services to improve collaboration, simplify operations, increase customer satisfaction, and improve competitive advantage. Learn more at \url{www.cisco.com.}\\
+	\emph{Majors:} ME, MFE, CSE, CE, EE, MSE, IOE, EP\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf Cognizant Technology Solutions }\\
+	\url{www.cognizant.com/campusrecruiting}\\
+	Cognizant Technology Solutions Corp. is an American multinational provider of custom information technology, consulting and business process outsourcing services. It is headquartered in Teaneck, NJ. Cognizant has been named to Fortune magazine's 100 Fastest-Growing Companies list for 9 consecutive years, including 2011 when it was ranked first in the "All-Stars" list of 16 companies that appear on the fastest-growing list year after year.\\
+	\emph{Majors:} CSE, EE, IOE, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf Cooper Tire \& Rubber Company }\\
+	\url{www.coopertire.candidatecare.com}\\
+	Cooper Tire \& Rubber Company (Cooper) is the parent company of a global family of companies that specialize in the design, manufacture, marketing, and sales of passenger car and light truck tires. Cooper has joint ventures, affiliates and subsidiaries that also specialize in medium truck, motorcycle and racing tires. Highlights •Headquartered in Findlay, Ohio •Technical Centers in three continents •9th largest global tire manufacturer and 4th largest in the U.S.\\
+	\emph{Majors:} EE, ME, MSE, ChE\\
+	\emph{Positions:} Full-time, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf Dow Chemical }\\
+	\url{www.careersatdow.com}\\
+	Dow combines the power of science and technology with the “Human Element” to passionately innovate what is essential to human progress. The Company connects chemistry and innovation with the principles of sustainability to help address many of the world’s most challenging problems such as the need for clean water, renewable energy generation and conservation, and increasing agricultural productivity. Dow’s diversified industry-leading portfolio of specialty chemical, advanced materials, agrosciences and plastics businesses delivers a broad range of technology-based products and solutions to customers in approximately 160 countries and in high growth sectors such as electronics, water, energy, coatings and agriculture. In 2010, Dow had annual sales of \$53.7 billion and employed approximately 50,000 people worldwide. The Company’s more than 5,000 products are manufactured at 188 sites in 35 countries across the globe. Dow values diversity and hires a mix of talented men and women engineers with numerous backgrounds from a variety of science and engineering disciplines. We look forward to talking to you about the many exciting opportunities available to you within Dow. We are looking for people who will take risks, explore new ideas, and challenge outdated thinking. We need people who want to make a difference!\\
+	\emph{Majors:} ME, ChE, CSE, CE, EE, IOE, MFE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf Eli Lilly and Company }\\
+	\url{http://www.lilly.com}\\
+	Lilly makes medicines that help people live longer, healthier, more active lives. We were founded by Eli Lilly in 1876, and are now the 10th largest pharmaceutical company in the world. We have steadfastly remained independent, but not isolated. Across the globe, Lilly has developed productive alliances and partnerships that advance our capacity to develop innovative medicines at lower costs. Lilly is consistently ranked as one of the best companies in the world to work for, and generations of Lilly employees have sustained a culture that values excellence, integrity and respect for people.\\
+	\emph{Majors:} EE, ME, IOE, PHARM, ChE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf FactSet Research Systems Inc. }\\
+	\url{www.factset.com/careers}\\
+	In 2011, FactSet was ranked \#64 on FORTUNE's "100 Best Companies to Work For" list. FactSet offers instant access to accurate financial data and analytics to thousands of investment professionals around the world. Our company combines hundreds of databases from industry-leading suppliers and clients' own proprietary data into a single, powerful information system, making FactSet a one-stop source for financial information. We're dedicated to staying on the cutting edge of technology by continually developing and refining our own software. FactSet has the growth and opportunity of a start-up with the stability of a well established company. FactSet continues to maintain operations without any debt and has posted earnings per share growth each quarter over the past twelve years. Thanks to our rapid growth, employees are given immediate responsibility and new opportunities for advancement. FactSet's management encourages and rewards entrepreneurial efforts, another factor that contributes to FactSet's success. The environment at FactSet is one of friendly cooperation. Our employee retention rate has historically averaged 90 percent because employees are treated well and opportunities abound. Headquartered in Norwalk, Connecticut and with 23 additional locations around the globe, FactSet employs more than 5,000 people worldwide. FactSet reported \$727M in annual revenues for the 2011 fiscal year and is publicly traded on both the New York Stock Exchange and NASDAQ under the symbol “FDS”. FactSet's products and data are used by 45,000+ financial professionals at more than 2,000 firms globally. Learn more about FactSet at \url{www.factset.com} or follow us at facebook.com/factset.\\
+	\emph{Majors:} CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf FTI Consulting }\\
+	\url{http://tbe.taleo.net/NA5/ats/careers/requisition.jsp?org=FTICONSULTING&cws=49&rid=2742}\\
+	FTI Consulting, Inc. is a global business advisory firm dedicated to helping organizations protect and enhance enterprise value in an increasingly complex environment. FTI Consulting professionals work closely with clients to anticipate, illuminate and overcome complex business challenges in areas such as investigations, litigation, mergers and acquisitions, regulatory issues, reputation management and restructuring. More information can be found at \url{www.fticonsulting.com.}\\
+	\emph{Majors:} CSE, IOE, I$\mu$SE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} \\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf General Electric }\\
+	\url{http://www.ge.com/careers/}\\
+	GE (NYSE: GE) is a diversified infrastructure, finance and media company taking on the world's toughest challenges. From aircraft engines and power generation to financial services, medical imaging, and television programming, GE operates in more than 100 countries and employs about 300,000 people worldwide. For more information, visit the company's Web site at \url{www.ge.com.}\\
+	\emph{Majors:} ME, ChE, BME, EE, NERS, AERO, CE, MSE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf General Mills }\\
+	\url{www.generalmills.com}\\
+	Our Brands. Your Legacy. Great brands start with the people that make them great. One of the world's leading food companies, General Mills operates in more than 100 countries and markets more than 100 consumer brands, including Cheerios, Häagen-Dazs, Nature Valley, Betty Crocker, Pillsbury, Green Giant, Old El Paso, Yoplait and more. Headquartered in Minneapolis, Minnesota, USA, General Mills had fiscal 2011 global net sales of US \$16 billion.\\
+	\emph{Majors:} ME, CEE, ChE, EE, MSE, MFE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf Intel Corporation }\\
+	\url{www.intel.com/jobs}\\
+	At Intel, our vision is to create and extend computing technology to connect and enrich the lives of every person on earth. This translates into a world of opportunities with global impact for you. As an Intern or Recent College Graduate, you will have access to unmatched manufacturing, a large breadth of technology expertise, and brand strength to make your mark on the exciting world of computing. Join our culture of innovation and exploration while enjoying the many perks we have to offer as you help us pioneer advances in hardware, software, education, energy and more. What will the future look like? You decide. There is more inside at Intel. Come explore all we have to offer. \url{www.intel.com/jobs/usa/students}\\
+	\emph{Majors:} ME, ChE, EE, CE, ENV, MSE, IOE, EP\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf Minnetronix, Inc. }\\
+	\url{http://www.minnetronix.com/careers/}\\
+	Minnetronix provides award-winning product design, development and manufacturing services to create state-of-the-art, innovative medical devices. Minnetronix was founded on the premise that if you gather smart, motivated people together and put them in a flexible and creative environment, good things will happen.\\
+	\emph{Majors:} ME, MFE, BME, CSE, CE, EE, IOE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf Procter Gamble RD }\\
+	\url{experiencepg.com}\\
+	Did you know P\&G products are enjoyed over 4 billion times a day in over 180 countries? With the strongest portfolio of trusted, quality, leadership brands, including Pampers®, Tide®, Ariel®, Always®, Whisper®, Pantene®, Mach3®, Bounty®, Dawn®, Gain®, Pringles®, Charmin®, Downy®, Iams®, Crest®, Oral-B®, Duracell®, Olay®, Head \& Shoulders®, Wella®, Gillette®, Braun® and Fusion®, our goal is to improve life daily through our products, people, and initiatives.\\
+	\emph{Majors:} ME, MSE, ChE, BME\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf Schlumberger }\\
+	\url{careers.slb.com}\\
+	Schlumberger Limited (NYSE:SLB) is the leading oilfield services company for customers working in the international oil and gas industry. Schlumberger is an equal opportunity employer.\\
+	\emph{Majors:} ME, CEE, ChE, EE, CE, MSE, IOE, EP\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf SHELL OIL COMPANY }\\
+	\url{WWW.SHELL.COM}\\
+	We are a global group of energy and petrochemicals companies with around 90,000 employees in more than 80 countries and territories. Our innovative approach ensures we are ready to help tackle the challenges of the new energy future.\\
+	\emph{Majors:} ME, CEE, ChE, CSE, AERO, EE, ENV, MSE, NAME\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf Tishman Construction }\\
+	\url{http://www.aecom.com/Careers}\\
+	Tishman Construction Corporation is one of the world's leading builders. In July 2010 Tishman merged with AECOM (NYSE: ACM), a global provider of professional technical and management support services. Tishmam is known for successfully managing the complexities of construction, innovative approaches to building, historic restoration, and sustainable-building leadership.\\
+	\emph{Majors:} EE, ME, CEE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf Union Pacific Railroad }\\
+	\url{www.unionpacific.jobs}\\
+	Union Pacific Railroad is a high tech, Fortune 200 transportation company that is an integral part of the very foundation of our nation's economy. We operate in 23 states over the western two-thirds of the nation providing a fuel-efficient, environmentally responsible and safe mode of freight transportation.\\
+	\emph{Majors:} ME, CEE, CSE, CE, EE, ENV, IOE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf Wolverine Trading LLC }\\
+	\url{http://www.wolve.com/html/careers.aspx}\\
+	Founded in 1994, Wolverine is a diversified financial institution specializing in proprietary trading, asset management, order execution services, and technology solutions. We are recognized as a market leader in derivatives valuation, trading, and value-added order execution across global equity, options, and futures markets. With a focus on innovation, achievement, and integrity, we take pride in serving the interests of both our clients and colleagues. Wolverine is headquartered in Chicago.\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf WorkForce Software }\\
+	\url{http://www.workforcesoftware.com/about/careers/}\\
+	WorkForce Software, Inc. is the leader in workforce management solutions for large employers with complex policies and compliance concerns. Our EmpCenter solution enables strategic HR by automating and streamlining interactions between the employer and its workforce. By automating these interactions, our clients better manage payroll and processing costs, help ensure compliance with state and federal regulations, and increase the productivity and satisfaction of their employees.\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ \end{multicols}\end{center}
+	\startcompanysection
+	\fancyhead[C]{ {\fontspec{Bookman Old Style} \fontsize{40}{48}\selectfont \bf\color{white}Career Fair 2013}\\[12pt]
+	{\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Monday, September 23}\\
+	}
+	\begin{center}\begin{multicols}{3}
+	\begin{minipage}{.9\columnwidth}{\Large\bf 3M Company }\\
+	\url{www.3m.com/careers}\\
+	\emph{Majors:} ME, CEE, ChE, CSE, CE, EE, ENV, MSE, IOE, EP\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Abbott Laboratories }\\
+	\url{www.abbott.com}\\
+	\emph{Majors:} ME, MFE, IOE, ChE, BME\\
+	\emph{Positions:} Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Accenture }\\
+	\url{www.accenture.com}\\
+	\emph{Majors:} IDP, FE, MSE, CEE, MFE, BME, EE, AOSS, IOE, CSE, AUTO, NERS, AERO, CE, ENV, IDE (UG), EP, ChE, ME, NAME, PHARM, I$\mu$SE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Air Liquide }\\
+	\url{http://www.us.airliquide.com/}\\
+	\emph{Majors:} EE, ME, IOE, ChE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Akuna Capital LLC }\\
+	\url{www.akunacapital.com}\\
+	\emph{Majors:} CSE, IDP, CE, IDE (UG), EP, FE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Amazon }\\
+	\url{https://up-amazon.icims.com/jobs/122383/job?in_iframe=1}\\
+	\emph{Majors:} CSE, EE, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf AMD }\\
+	\url{www.amd.com/careers}\\
+	\emph{Majors:} CSE, EE, CE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf American Express }\\
+	\url{americanexpress.com/careers}\\
+	\emph{Majors:} IDP, FE, MSE, CEE, MFE, BME, EE, AOSS, IOE, CSE, AUTO, NERS, AERO, CE, ENV, IDE (UG), EP, ChE, ME, NAME, PHARM, I$\mu$SE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Analog Devices }\\
+	\url{www.analog.com/careers}\\
+	\emph{Majors:} EE, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Andreessen Horowitz }\\
+	\url{www.a16z.com}\\
+	\emph{Majors:} CSE, EE, CE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Apparatus }\\
+	\url{www.apparatus.net/careers}\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Baker Hughes }\\
+	\url{www.bakerhughes.com/graduate}\\
+	\emph{Majors:} ME, CEE, ChE, CSE, NERS, AERO, CE, EE, FE, MSE, IOE, EP, MFE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Barr Engineering Co. }\\
+	\url{Apply online at www.barr.com}\\
+	\emph{Majors:} IDE (UG), CEE, IOE, ENV\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf BASF Corporation }\\
+	\url{http://jobs.basf.us/}\\
+	\emph{Majors:} EE, ME, CEE, ChE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf BigMachines, Inc. }\\
+	\url{www.bigmachines.com/jobs}\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Black \& Veatch }\\
+	\url{www.bv.com ("Careers") referencing ("University Graduates")}\\
+	\emph{Majors:} EE, ME, CEE, ChE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf BlackEdge Capital }\\
+	\url{www.blackedge.com}\\
+	\emph{Majors:} ME, MFE, CEE, ChE, BME, CSE, AUTO, NERS, AERO, CE, NAME, EE, FE, ENV, IDP, MSE, IOE, EP, I$\mu$SE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Bosch }\\
+	\url{www.boschcampus.com}\\
+	\emph{Majors:} CSE, EE, ME, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Brady Corporation }\\
+	\url{http://www.bradycorp.com/careers}\\
+	\emph{Majors:} MSE, ChE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf BrightEdge Technologies, Inc. }\\
+	\url{http://hire.jobvite.com/j/?bj=oRe8VfwS&s=Michigan}\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Bury+Partners }\\
+	\url{www.burypartners.com}\\
+	\emph{Majors:} EE, ME, CEE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Caterpillar Inc Engineering }\\
+	\url{www.JoinTeamCaterpillar.com}\\
+	\emph{Majors:} ME, CEE, ChE, CSE, CE, EE, MSE, IOE, EP, MFE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Central Intelligence Agency (CIA) }\\
+	\url{www.cia.gov Note: Summer internships are for 2013}\\
+	\emph{Majors:} ME, ChE, CSE, NERS, AERO, CE, EE, IDE (UG), MSE, EP\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Chevron }\\
+	\url{www.chevron.com}\\
+	\emph{Majors:} EE, ME, CEE, ChE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Chicago Trading Company }\\
+	\url{http://www.chicagotrading.com}\\
+	\emph{Majors:} ME, MFE, CEE, ChE, IDP, CSE, MSE, NERS, AERO, CE, EE, FE, ENV, IDE (UG), IOE, EP, I$\mu$SE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Cirrus Logic }\\
+	\url{http://cirrus.com/en/careers/}\\
+	\emph{Majors:} EE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Citadel LLC }\\
+	\url{www.citadelgroup.com}\\
+	\emph{Majors:} EE, EP, CE, FE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Compuware Corporation }\\
+	\url{http://www.compuware.com/careers/}\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Consumers Energy }\\
+	\url{http://www.consumersenergy.com/}\\
+	\emph{Majors:} ME, CEE, ChE, CSE, CE, EE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Continental Automotive Systems }\\
+	\url{www.Careers-Continental.com}\\
+	\emph{Majors:} CSE, AUTO, EE, ME, CE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Cooper Industries }\\
+	\url{www.cooperindustries.com}\\
+	\emph{Majors:} EE, ME, MSE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Creare Inc. }\\
+	\url{http://careers.creare.com/careers/Careers.aspx}\\
+	\emph{Majors:} ME, MFE, BME, EE, NERS, AERO, IDP, MSE, ChE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Cummins }\\
+	\url{http://careers.cummins.com/}\\
+	\emph{Majors:} ME, MFE, IDP, ChE, NAME, EE, AUTO, AERO, MSE, CE, FE, ENV, IDE (UG), IOE, EP, I$\mu$SE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Cymer, Inc. }\\
+	\url{http://www.cymer.com/US_Jobs/}\\
+	\emph{Majors:} ME, ChE, CSE, NERS, IDP, EE, MSE, IDE (UG), IOE, EP, MFE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Deloitte Consulting }\\
+	\url{www.careers.deloitte.com}\\
+	\emph{Majors:} ME, CEE, ChE, CSE, AERO, CE, EE, IOE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf DiverseNote }\\
+	\url{www.DiverseNote.com}\\
+	\emph{Majors:} CEE, BME, EE, CE, ENV, IOE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Domino's Pizza }\\
+	\url{www.careers.dominos.com}\\
+	\emph{Majors:} CSE, IOE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Donald C. Cook Nuclear Plant - AEP }\\
+	\url{http://www.cookinfo.com/}\\
+	\emph{Majors:} ME, CEE, ChE, EE, NERS, CE\\
+	\emph{Positions:} Full-time, Co-Op\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf DRW Trading Group }\\
+	\url{www.drw.com}\\
+	\emph{Majors:} IDP, FE, MSE, CEE, MFE, BME, EE, AOSS, IOE, CSE, AUTO, NERS, AERO, CE, ENV, IDE (UG), EP, ChE, ME, NAME, PHARM, I$\mu$SE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf DTE Energy }\\
+	\url{www.dteenergy.com/careers}\\
+	\emph{Majors:} EE, ME, ChE, CE\\
+	\emph{Positions:} Full-time, Co-Op\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Dwyer Instruments, Inc. }\\
+	\url{www.dwyer-inst.com}\\
+	\emph{Majors:} EE, ME, ChE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Eaton Corporation }\\
+	\url{www.eaton.com/careers}\\
+	\emph{Majors:} CSE, EE, ME, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Epic }\\
+	\url{www.careers.epic.com}\\
+	\emph{Majors:} CSE, EE, EP, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Ethicon Endo-Surgery }\\
+	\url{www.careers.jnj.com}\\
+	\emph{Majors:} ME, BME\\
+	\emph{Positions:} Co-Op\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Expedia }\\
+	\url{www.expediajobs.com}\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Exponent }\\
+	\url{www.exponent.com/careers}\\
+	\emph{Majors:} CEE, ChE, BME, EE, AUTO, NERS, AERO, MSE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Facebook }\\
+	\url{www.facebook.com/careers/university.php}\\
+	\emph{Majors:} CSE, EE, EP, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Garmin International }\\
+	\url{www.garmin.com}\\
+	\emph{Majors:} CSE, EE, ME, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Hormel Foods }\\
+	\url{https://www.hormelfoods.com/careers}\\
+	\emph{Majors:} EE, ME, CEE, IOE, MFE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf HP }\\
+	\url{www.hp.com/go/jobs}\\
+	\emph{Majors:} CSE, EE, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf IMI Plc }\\
+	\url{http://www.imiplc.com/careers/graduates-and-under-graduates/apply.aspx}\\
+	\emph{Majors:} ME, CEE, IOE, ChE, MFE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Improvement Path Sytsems }\\
+	\url{www.improvementpath.com}\\
+	\emph{Majors:} CSE, IOE, CE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Info Tech, Inc. }\\
+	\url{www.infotechfl.com/apply}\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf John Deere }\\
+	\url{www.JohnDeere.Jobs}\\
+	\emph{Majors:} ME, ChE, CSE, CE, EE, ENV, IOE, MSE, MFE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf JTEKT/Koyo }\\
+	\url{www.koyousa.com}\\
+	\emph{Majors:} EE, AUTO, IOE, ME, MFE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Jump Trading }\\
+	\url{www.jumptrading.com}\\
+	\emph{Majors:} CSE, EE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Kongsberg Automotive }\\
+	\url{kongsbergautomotive.com}\\
+	\emph{Majors:} EE, AUTO, ME, MFE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf L-3 Communications - Communication Systems West }\\
+	\url{www.l-3jobs.com}\\
+	\emph{Majors:} ME, MFE, CSE, CE, EE, IOE, EP\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Lam Research Corporation }\\
+	\url{http://careers.lamresearch.com}\\
+	\emph{Majors:} EE, ME, MSE, EP\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf LLamasoft Inc. }\\
+	\url{www.llamasoft.com}\\
+	\emph{Majors:} CSE, IOE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Lutron Electronics }\\
+	\url{www.lutron.com/careers}\\
+	\emph{Majors:} ME, CEE, CSE, CE, EE, IDE (UG), EP\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Magna Powertrain }\\
+	\url{www.magnapowertrain.com}\\
+	\emph{Majors:} ME, MFE, CSE, AUTO, CE, EE, IOE, MSE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Manhattan Associates }\\
+	\url{www.manh.com}\\
+	\emph{Majors:} ME, CEE, CSE, CE, EE, IOE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Marvell Semiconductor }\\
+	\url{www.marvell.com}\\
+	\emph{Majors:} CSE, EE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf MathWorks }\\
+	\url{www.mathworks.com}\\
+	\emph{Majors:} ME, BME, CSE, AERO, CE, EE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Mayo Clinic }\\
+	\url{www.mayoclinic.org}\\
+	\emph{Majors:} ME, CEE, MFE, BME, CSE, CE, EE, IDE (UG), IOE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf McDonnell Boehnen Hulbert \& Berghoff LLP }\\
+	\url{https://lawcruit.micronapps.com/sup/v2/lc_supp_app_frm.aspx?lawfirm=59&id=0}\\
+	\emph{Majors:} CSE, EE, EP, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Medline Industries }\\
+	\url{www.medline.com/careers}\\
+	\emph{Majors:} IOE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Michelin North America }\\
+	\url{www.careers.michelin-us.com}\\
+	\emph{Majors:} ME, ChE, CSE, AUTO, EE, MSE, MFE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Microsoft }\\
+	\url{www.microsoft.com/university}\\
+	\emph{Majors:} CSE, EE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf MIT Lincoln Laboratory }\\
+	\url{www.ll.mit.edu}\\
+	\emph{Majors:} ME, CSE, AERO, CE, EE, MSE, EP\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Molex }\\
+	\url{http://www.molex.com}\\
+	\emph{Majors:} EE, IOE, MFE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf MyBuys, Inc. }\\
+	\url{www.mybuys.com}\\
+	\emph{Majors:} CSE, IDE (UG), IOE, EP, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf National Instruments }\\
+	\url{www.ni.com/careers}\\
+	\emph{Majors:} EE, ME, CE, BME\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Naval Research Laboratory }\\
+	\url{http://www.nrl.navy.mil}\\
+	\emph{Majors:} CSE, IDP, EE, CE, IDE (UG), EP\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Navistar, Inc. }\\
+	\url{www.navistar.com/careers}\\
+	\emph{Majors:} EE, ME, IOE, MFE, MSE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf New World Systems }\\
+	\url{http://www.newworldsystems.com/about_us/careers/}\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Nexteer Automotive }\\
+	\url{www.nexteer.com/careers.html}\\
+	\emph{Majors:} EE, ME, IOE, MFE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf NMHG }\\
+	\url{www.nmhg.com}\\
+	\emph{Majors:} EE, ME\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Oak Ridge National Laboratory }\\
+	\url{jobs.ornl.gov}\\
+	\emph{Majors:} ME, MFE, CEE, ChE, BME, CSE, AUTO, NERS, MSE, CE, EE, IDP, ENV, IDE (UG), IOE, EP, I$\mu$SE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Opower }\\
+	\url{www.opower.com}\\
+	\emph{Majors:} CSE, EE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Orbital Sciences Corporation }\\
+	\url{www.Orbital.jobs}\\
+	\emph{Majors:} EE, ME, MSE, AERO, MFE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Orbitz World Wide }\\
+	\url{http://careers.orbitz.com/}\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Owens Corning }\\
+	\url{www.owenscorning.com}\\
+	\emph{Majors:} EE, ME, IOE, ChE, MFE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Path }\\
+	\url{www.path.com}\\
+	\emph{Majors:} CSE, EP, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf PEAK6 Investments }\\
+	\url{http://tbe.taleo.net/NA6/ats/careers/jobSearch.jsp?org=PEAK6&cws=1}\\
+	\emph{Majors:} CSE, CE, EE, FE, IDE (UG), EP\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf PepsiCo / Pepsi Beverages Company }\\
+	\url{www.pepsico.com/careers}\\
+	\emph{Majors:} ME, ChE, EE, IOE, MSE, MFE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Perrigo Company }\\
+	\url{http://www.perrigo.com/}\\
+	\emph{Majors:} ME, MFE, BME, CSE, CE, PHARM, IOE, ChE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Plastipak Packaging, Inc. }\\
+	\url{www.plastipak.com/careers}\\
+	\emph{Majors:} ME, MFE, EE, CE, MSE, IDE (UG), IOE, EP\\
+	\emph{Positions:} Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Plex Systems, Inc. }\\
+	\url{www.plex.com}\\
+	\emph{Majors:} CSE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf PPG Industries, Inc. }\\
+	\url{www.ppg.com}\\
+	\emph{Majors:} EE, ME, IOE, ChE, ENV\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Praxair, Inc. }\\
+	\url{www.praxair.com/careers}\\
+	\emph{Majors:} ME, CEE, ChE, BME, ENV, MSE, IOE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf PwC }\\
+	\url{https://sjobs.brassring.com/1033/ASP/TG/cim_home.asp?partnerid=25163&siteid=5278}\\
+	\emph{Majors:} ME, CEE, CSE, CE, EE, IDE (UG), IOE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf PYRAMID SOLUTIONS, INC. }\\
+	\url{pyramidsolutions.com}\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Reckitt Benckiser }\\
+	\url{www.rb.com/apply}\\
+	\emph{Majors:} ME, IOE, ChE, MSE, MFE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Redfin }\\
+	\url{http://www.redfin.com/about/open-jobs}\\
+	\emph{Majors:} CSE, IOE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} \\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Rockwell Automation }\\
+	\url{www.rockwellautomation.com/ university_relations_gateway www.rockwellautomation.com/university_relations_gateway}\\
+	\emph{Majors:} ME, ChE, CSE, CE, EE, MSE, IDE (UG), IOE, EP\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf RTI }\\
+	\url{www.rti.com/careers}\\
+	\emph{Majors:} CSE, AERO, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf SC Johnson }\\
+	\url{SCJohnson.com}\\
+	\emph{Majors:} ChE\\
+	\emph{Positions:} Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Schneider Electric }\\
+	\url{http://www.us.schneider-electric.com/careers}\\
+	\emph{Majors:} ME, MFE, CSE, CE, EE, IOE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf SPX Corporation }\\
+	\url{http://www.spx.com/en/careers-and-employment/campus-recruiting/}\\
+	\emph{Majors:} EE, ME, IOE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf SRT Solutions }\\
+	\url{www.srtsolutions.com}\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Stryker Corporation }\\
+	\url{http://jobs.brassring.com/en/asp/tg/cim_searchresults.asp?partnerid=11721&siteid=78}\\
+	\emph{Majors:} EE, IDE (UG), ME\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf T. Rowe Price }\\
+	\url{www.troweprice.com/careers}\\
+	\emph{Majors:} ME, CEE, ChE, BME, CSE, AERO, CE, EE, FE, MSE, IDE (UG), IOE, EP\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Technology Services Group }\\
+	\url{http://www.tsgrp.com/careers/}\\
+	\emph{Majors:} CSE, EE, IDP, CE, IDE (UG)\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Tefen }\\
+	\url{tefen.com}\\
+	\emph{Majors:} IOE, MFE, BME\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Texas Instruments }\\
+	\url{www.careers.ti.com}\\
+	\emph{Majors:} ME, MFE, EE, CE, MSE, IOE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Toyota Motor Engineering \& Manufacturing North America }\\
+	\url{www.toyota.com}\\
+	\emph{Majors:} ME, CEE\\
+	\emph{Positions:} Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Unilever }\\
+	\url{www.unileverusa.com}\\
+	\emph{Majors:} ME, CEE, ChE, CSE, CE, EE, IOE, MSE\\
+	\emph{Positions:} Full-time, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf United States Postal Service }\\
+	\url{www.usps.com}\\
+	\emph{Majors:} ME, MFE, CEE, ChE, EE, CE, ENV, IOE, EP, I$\mu$SE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf US Nuclear Regulatory Commission }\\
+	\url{US NRC.gov}\\
+	\emph{Majors:} ME, CEE, ChE, EE, NERS, ENV, MSE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf USAA }\\
+	\url{www.usaa.com}\\
+	\emph{Majors:} CSE, EE, ME\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} \\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Weather Underground Inc. }\\
+	\url{www.wunderground.com}\\
+	\emph{Majors:} CSE, AOSS, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Whirlpool Corporation }\\
+	\url{www.whirlpoolcareers.com}\\
+	\emph{Majors:} ME, ChE, CSE, AERO, EE, ENV, IOE, MSE, MFE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Williams International }\\
+	\url{www.williams-int.com}\\
+	\emph{Majors:} EE, ME, AERO\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf X by 2 }\\
+	\url{www.xby2.com}\\
+	\emph{Majors:} CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Yelp }\\
+	\url{http://www.yelp.com/careers?country=US}\\
+	\emph{Majors:} CSE, EE, IOE, IDE (UG)\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf YJT Solutions }\\
+	\url{http://www.yjtsolutions.com/content/about/careers.html}\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Zimmer, Inc. }\\
+	\url{www.zimmer.com}\\
+	\emph{Majors:} ME, BME\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf ZS Associate }\\
+	\url{www.zsassociates.com/careers}\\
+	\emph{Majors:} ME, MFE, CEE, ChE, BME, EE, AUTO, NERS, AERO, MSE, CE, NAME, AOSS, PHARM, FE, ENV, IDP, IDE (UG), IOE, EP, I$\mu$SE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Zynga }\\
+	\url{www.zynga.com}\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\end{multicols}\end{center}
+	\newpage\newgeometry{left=0pt,right=15pt,bottom=5pt,includehead,headheight=1.6in,top=0in,twoside=false}
+	\fancyhead[C]{ {\fontspec{Bookman Old Style} \fontsize{40}{48}\selectfont \bf\color{white}Career Fair 2013}\\[12pt]
+	{\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Monday, September 23}\\
+	\begin{tikzpicture}[remember picture,overlay]
+	\node[yshift=-\headheight-10pt] at (current page.north)
+	{\fontsize{16}{18}\selectfont \bf Companies by Major};
+	\end{tikzpicture}
+	}
+	\begin{center}\begin{multicols}{5}
+	{\fontsize{14}{16}\selectfont \bf AERO}\begin{compactitem}
+		\item Accenture\item American Express\item Baker Hughes\item BlackEdge Capital\item Central Intelligence Agency (CIA)\item Chicago Trading Company\item Creare Inc.\item Cummins\item Deloitte Consulting\item DRW Trading Group\item Exponent\item General Electric\item MathWorks\item MIT Lincoln Laboratory\item Orbital Sciences Corporation\item RTI\item SHELL OIL COMPANY\item T. Rowe Price\item Whirlpool Corporation\item Williams International\item ZS Associate\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf AOSS}\begin{compactitem}
+		\item Accenture\item American Express\item DRW Trading Group\item Weather Underground Inc.\item ZS Associate\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf AUTO}\begin{compactitem}
+		\item Accenture\item American Express\item BlackEdge Capital\item Continental Automotive Systems\item Cummins\item DRW Trading Group\item Exponent\item JTEKT/Koyo\item Kongsberg Automotive\item Magna Powertrain\item Michelin North America\item Oak Ridge National Laboratory\item ZS Associate\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf BME}\begin{compactitem}
+		\item Abbott Laboratories\item Accenture\item American Express\item BlackEdge Capital\item Creare Inc.\item DiverseNote\item DRW Trading Group\item Ethicon Endo-Surgery\item Exponent\item General Electric\item MathWorks\item Mayo Clinic\item Minnetronix, Inc.\item National Instruments\item Oak Ridge National Laboratory\item Perrigo Company\item Praxair, Inc.\item Procter Gamble RD\item T. Rowe Price\item Tefen\item Zimmer, Inc.\item ZS Associate\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf CE}\begin{compactitem}
+		\item 3M Company\item Accenture\item Akuna Capital LLC\item Amazon\item AMD\item American Express\item Analog Devices\item Andreessen Horowitz\item Apparatus\item apple inc\item Baker Hughes\item Barracuda Networks\item BigMachines, Inc.\item BlackEdge Capital\item Bosch\item BrightEdge Technologies, Inc.\item Caterpillar Inc Engineering\item Central Intelligence Agency (CIA)\item Chicago Trading Company\item Cisco Systems\item Citadel LLC\item Cognizant Technology Solutions\item Compuware Corporation\item Consumers Energy\item Continental Automotive Systems\item Cummins\item Deloitte Consulting\item DiverseNote\item Domino's Pizza\item Donald C. Cook Nuclear Plant - AEP\item Dow Chemical\item DRW Trading Group\item DTE Energy\item Eaton Corporation\item Epic\item Expedia\item Facebook\item FactSet Research Systems Inc.\item FTI Consulting\item Garmin International\item General Electric\item HP\item Improvement Path Sytsems\item Info Tech, Inc.\item Intel Corporation\item John Deere\item Jump Trading\item L-3 Communications - Communication Systems West\item Lutron Electronics\item Magna Powertrain\item Manhattan Associates\item Marvell Semiconductor\item MathWorks\item Mayo Clinic\item McDonnell Boehnen Hulbert \& Berghoff LLP\item Microsoft\item Minnetronix, Inc.\item MIT Lincoln Laboratory\item MyBuys, Inc.\item National Instruments\item Naval Research Laboratory\item New World Systems\item Nexteer Automotive\item Oak Ridge National Laboratory\item Orbitz World Wide\item Path\item PEAK6 Investments\item Perrigo Company\item Plastipak Packaging, Inc.\item PwC\item PYRAMID SOLUTIONS, INC.\item Redfin\item Rockwell Automation\item RTI\item Schlumberger\item Schneider Electric\item SRT Solutions\item T. Rowe Price\item Technology Services Group\item Texas Instruments\item Unilever\item Union Pacific Railroad\item United States Postal Service\item Weather Underground Inc.\item Wolverine Trading LLC\item WorkForce Software\item X by 2\item YJT Solutions\item ZS Associate\item Zynga\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf CEE}\begin{compactitem}
+		\item 3M Company\item Accenture\item American Express\item apple inc\item Baker Hughes\item Barr Engineering Co.\item BASF Corporation\item Black \& Veatch\item BlackEdge Capital\item BP\item Bury+Partners\item Caterpillar Inc Engineering\item Chevron\item Chicago Trading Company\item Consumers Energy\item Deloitte Consulting\item DiverseNote\item Donald C. Cook Nuclear Plant - AEP\item DRW Trading Group\item Exponent\item General Mills\item Hormel Foods\item IMI Plc\item Lutron Electronics\item Manhattan Associates\item Mayo Clinic\item Oak Ridge National Laboratory\item Praxair, Inc.\item PwC\item Schlumberger\item SHELL OIL COMPANY\item T. Rowe Price\item Tishman Construction\item Toyota Motor Engineering \& Manufacturing North America\item Unilever\item Union Pacific Railroad\item United States Postal Service\item US Nuclear Regulatory Commission\item ZS Associate\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf CSE}\begin{compactitem}
+		\item 3M Company\item Accenture\item Akuna Capital LLC\item Amazon\item AMD\item American Express\item Andreessen Horowitz\item Apparatus\item apple inc\item Baker Hughes\item Barracuda Networks\item BigMachines, Inc.\item BlackEdge Capital\item Bosch\item BrightEdge Technologies, Inc.\item Caterpillar Inc Engineering\item Central Intelligence Agency (CIA)\item Chicago Trading Company\item Cisco Systems\item Cognizant Technology Solutions\item Compuware Corporation\item Consumers Energy\item Continental Automotive Systems\item Cymer, Inc.\item Deloitte Consulting\item Domino's Pizza\item Dow Chemical\item DRW Trading Group\item Eaton Corporation\item Epic\item Expedia\item Facebook\item FTI Consulting\item Garmin International\item HP\item Improvement Path Sytsems\item Info Tech, Inc.\item John Deere\item Jump Trading\item L-3 Communications - Communication Systems West\item LLamasoft Inc.\item Lutron Electronics\item Magna Powertrain\item Manhattan Associates\item Marvell Semiconductor\item MathWorks\item Mayo Clinic\item McDonnell Boehnen Hulbert \& Berghoff LLP\item Michelin North America\item Microsoft\item Minnetronix, Inc.\item MIT Lincoln Laboratory\item MyBuys, Inc.\item Naval Research Laboratory\item New World Systems\item Oak Ridge National Laboratory\item Opower\item Orbitz World Wide\item Path\item PEAK6 Investments\item Perrigo Company\item Plex Systems, Inc.\item PwC\item PYRAMID SOLUTIONS, INC.\item Redfin\item Rockwell Automation\item RTI\item Schneider Electric\item SHELL OIL COMPANY\item SRT Solutions\item T. Rowe Price\item Technology Services Group\item Unilever\item Union Pacific Railroad\item USAA\item Weather Underground Inc.\item Whirlpool Corporation\item Wolverine Trading LLC\item WorkForce Software\item Yelp\item YJT Solutions\item Zynga\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf ChE}\begin{compactitem}
+		\item 3M Company\item Abbott Laboratories\item Accenture\item Air Liquide\item American Express\item Baker Hughes\item BASF Corporation\item Black \& Veatch\item BlackEdge Capital\item BP\item Brady Corporation\item Caterpillar Inc Engineering\item Central Intelligence Agency (CIA)\item Chevron\item Chicago Trading Company\item Consumers Energy\item Cooper Tire \& Rubber Company\item Creare Inc.\item Cummins\item Cymer, Inc.\item Deloitte Consulting\item Donald C. Cook Nuclear Plant - AEP\item Dow Chemical\item DRW Trading Group\item DTE Energy\item Dwyer Instruments, Inc.\item Eli Lilly and Company\item Exponent\item General Electric\item General Mills\item IMI Plc\item Intel Corporation\item John Deere\item Michelin North America\item Oak Ridge National Laboratory\item Owens Corning\item PepsiCo / Pepsi Beverages Company\item Perrigo Company\item PPG Industries, Inc.\item Praxair, Inc.\item Procter Gamble RD\item Reckitt Benckiser\item Rockwell Automation\item SC Johnson\item Schlumberger\item SHELL OIL COMPANY\item T. Rowe Price\item Unilever\item United States Postal Service\item US Nuclear Regulatory Commission\item Whirlpool Corporation\item ZS Associate\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf EE}\begin{compactitem}
+		\item 3M Company\item Accenture\item Air Liquide\item Amazon\item AMD\item American Express\item Analog Devices\item Andreessen Horowitz\item apple inc\item Baker Hughes\item Barracuda Networks\item BASF Corporation\item Black \& Veatch\item BlackEdge Capital\item Bosch\item Bury+Partners\item Caterpillar Inc Engineering\item Central Intelligence Agency (CIA)\item Chevron\item Chicago Trading Company\item Cirrus Logic\item Cisco Systems\item Citadel LLC\item Cognizant Technology Solutions\item Consumers Energy\item Continental Automotive Systems\item Cooper Industries\item Cooper Tire \& Rubber Company\item Creare Inc.\item Cummins\item Cymer, Inc.\item Deloitte Consulting\item DiverseNote\item Donald C. Cook Nuclear Plant - AEP\item Dow Chemical\item DRW Trading Group\item DTE Energy\item Dwyer Instruments, Inc.\item Eaton Corporation\item Eli Lilly and Company\item Epic\item Exponent\item Facebook\item Garmin International\item General Electric\item General Mills\item Hormel Foods\item HP\item Intel Corporation\item John Deere\item JTEKT/Koyo\item Jump Trading\item Kongsberg Automotive\item L-3 Communications - Communication Systems West\item Lam Research Corporation\item Lutron Electronics\item Magna Powertrain\item Manhattan Associates\item Marvell Semiconductor\item MathWorks\item Mayo Clinic\item McDonnell Boehnen Hulbert \& Berghoff LLP\item Michelin North America\item Microsoft\item Minnetronix, Inc.\item MIT Lincoln Laboratory\item Molex\item National Instruments\item Naval Research Laboratory\item Navistar, Inc.\item Nexteer Automotive\item NMHG\item Oak Ridge National Laboratory\item Opower\item Orbital Sciences Corporation\item Owens Corning\item PEAK6 Investments\item PepsiCo / Pepsi Beverages Company\item Plastipak Packaging, Inc.\item PPG Industries, Inc.\item PwC\item Rockwell Automation\item Schlumberger\item Schneider Electric\item SHELL OIL COMPANY\item SPX Corporation\item Stryker Corporation\item T. Rowe Price\item Technology Services Group\item Texas Instruments\item Tishman Construction\item Unilever\item Union Pacific Railroad\item United States Postal Service\item US Nuclear Regulatory Commission\item USAA\item Whirlpool Corporation\item Williams International\item Yelp\item ZS Associate\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf ENV}\begin{compactitem}
+		\item 3M Company\item Accenture\item American Express\item Barr Engineering Co.\item BlackEdge Capital\item Chicago Trading Company\item Cummins\item DiverseNote\item DRW Trading Group\item Intel Corporation\item John Deere\item Oak Ridge National Laboratory\item PPG Industries, Inc.\item Praxair, Inc.\item SHELL OIL COMPANY\item Union Pacific Railroad\item United States Postal Service\item US Nuclear Regulatory Commission\item Whirlpool Corporation\item ZS Associate\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf EP}\begin{compactitem}
+		\item 3M Company\item Accenture\item Akuna Capital LLC\item American Express\item apple inc\item Baker Hughes\item Barracuda Networks\item BlackEdge Capital\item Caterpillar Inc Engineering\item Central Intelligence Agency (CIA)\item Chicago Trading Company\item Cisco Systems\item Citadel LLC\item Cummins\item Cymer, Inc.\item DRW Trading Group\item Epic\item Facebook\item Intel Corporation\item L-3 Communications - Communication Systems West\item Lam Research Corporation\item Lutron Electronics\item McDonnell Boehnen Hulbert \& Berghoff LLP\item MIT Lincoln Laboratory\item MyBuys, Inc.\item Naval Research Laboratory\item Oak Ridge National Laboratory\item Path\item PEAK6 Investments\item Plastipak Packaging, Inc.\item Rockwell Automation\item Schlumberger\item T. Rowe Price\item United States Postal Service\item ZS Associate\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf FE}\begin{compactitem}
+		\item Accenture\item Akuna Capital LLC\item American Express\item Baker Hughes\item BlackEdge Capital\item Chicago Trading Company\item Citadel LLC\item Cummins\item DRW Trading Group\item PEAK6 Investments\item T. Rowe Price\item ZS Associate\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf I$\mu$SE}\begin{compactitem}
+		\item Accenture\item American Express\item BlackEdge Capital\item Chicago Trading Company\item Cummins\item DRW Trading Group\item FTI Consulting\item Oak Ridge National Laboratory\item United States Postal Service\item ZS Associate\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf IDE (UG)}\begin{compactitem}
+		\item Accenture\item Akuna Capital LLC\item American Express\item Barr Engineering Co.\item Central Intelligence Agency (CIA)\item Chicago Trading Company\item Cummins\item Cymer, Inc.\item DRW Trading Group\item Lutron Electronics\item Mayo Clinic\item MyBuys, Inc.\item Naval Research Laboratory\item Oak Ridge National Laboratory\item PEAK6 Investments\item Plastipak Packaging, Inc.\item PwC\item Rockwell Automation\item Stryker Corporation\item T. Rowe Price\item Technology Services Group\item Yelp\item ZS Associate\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf IDP}\begin{compactitem}
+		\item Accenture\item Akuna Capital LLC\item American Express\item BlackEdge Capital\item Chicago Trading Company\item Creare Inc.\item Cummins\item Cymer, Inc.\item DRW Trading Group\item Naval Research Laboratory\item Oak Ridge National Laboratory\item Technology Services Group\item ZS Associate\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf IOE}\begin{compactitem}
+		\item 3M Company\item Abbott Laboratories\item Accenture\item Air Liquide\item American Express\item Baker Hughes\item Barr Engineering Co.\item BlackEdge Capital\item Caterpillar Inc Engineering\item Chicago Trading Company\item Cisco Systems\item Cognizant Technology Solutions\item Cummins\item Cymer, Inc.\item Deloitte Consulting\item DiverseNote\item Domino's Pizza\item Dow Chemical\item DRW Trading Group\item Eli Lilly and Company\item FTI Consulting\item Hormel Foods\item IMI Plc\item Improvement Path Sytsems\item Intel Corporation\item John Deere\item JTEKT/Koyo\item L-3 Communications - Communication Systems West\item LLamasoft Inc.\item Magna Powertrain\item Manhattan Associates\item Mayo Clinic\item Medline Industries\item Minnetronix, Inc.\item Molex\item MyBuys, Inc.\item Navistar, Inc.\item Nexteer Automotive\item Oak Ridge National Laboratory\item Owens Corning\item PepsiCo / Pepsi Beverages Company\item Perrigo Company\item Plastipak Packaging, Inc.\item PPG Industries, Inc.\item Praxair, Inc.\item PwC\item Reckitt Benckiser\item Redfin\item Rockwell Automation\item Schlumberger\item Schneider Electric\item SPX Corporation\item T. Rowe Price\item Tefen\item Texas Instruments\item Unilever\item Union Pacific Railroad\item United States Postal Service\item Whirlpool Corporation\item Yelp\item ZS Associate\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf ME}\begin{compactitem}
+		\item 3M Company\item Abbott Laboratories\item Accenture\item Air Liquide\item American Express\item apple inc\item Baker Hughes\item BASF Corporation\item Black \& Veatch\item BlackEdge Capital\item Bosch\item BP\item Bury+Partners\item Caterpillar Inc Engineering\item Central Intelligence Agency (CIA)\item Chevron\item Chicago Trading Company\item Cisco Systems\item Consumers Energy\item Continental Automotive Systems\item Cooper Industries\item Cooper Tire \& Rubber Company\item Creare Inc.\item Cummins\item Cymer, Inc.\item Deloitte Consulting\item Donald C. Cook Nuclear Plant - AEP\item Dow Chemical\item DRW Trading Group\item DTE Energy\item Dwyer Instruments, Inc.\item Eaton Corporation\item Eli Lilly and Company\item Ethicon Endo-Surgery\item Garmin International\item General Electric\item General Mills\item Hormel Foods\item IMI Plc\item Intel Corporation\item John Deere\item JTEKT/Koyo\item Kongsberg Automotive\item L-3 Communications - Communication Systems West\item Lam Research Corporation\item Lutron Electronics\item Magna Powertrain\item Manhattan Associates\item MathWorks\item Mayo Clinic\item Michelin North America\item Minnetronix, Inc.\item MIT Lincoln Laboratory\item National Instruments\item Navistar, Inc.\item Nexteer Automotive\item NMHG\item Oak Ridge National Laboratory\item Orbital Sciences Corporation\item Owens Corning\item PepsiCo / Pepsi Beverages Company\item Perrigo Company\item Plastipak Packaging, Inc.\item PPG Industries, Inc.\item Praxair, Inc.\item Procter Gamble RD\item PwC\item Reckitt Benckiser\item Rockwell Automation\item Schlumberger\item Schneider Electric\item SHELL OIL COMPANY\item SPX Corporation\item Stryker Corporation\item T. Rowe Price\item Texas Instruments\item Tishman Construction\item Toyota Motor Engineering \& Manufacturing North America\item Unilever\item Union Pacific Railroad\item United States Postal Service\item US Nuclear Regulatory Commission\item USAA\item Whirlpool Corporation\item Williams International\item Zimmer, Inc.\item ZS Associate\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf MFE}\begin{compactitem}
+		\item Abbott Laboratories\item Accenture\item American Express\item Baker Hughes\item BlackEdge Capital\item Caterpillar Inc Engineering\item Chicago Trading Company\item Cisco Systems\item Creare Inc.\item Cummins\item Cymer, Inc.\item Dow Chemical\item DRW Trading Group\item General Mills\item Hormel Foods\item IMI Plc\item John Deere\item JTEKT/Koyo\item Kongsberg Automotive\item L-3 Communications - Communication Systems West\item Magna Powertrain\item Mayo Clinic\item Michelin North America\item Minnetronix, Inc.\item Molex\item Navistar, Inc.\item Nexteer Automotive\item Oak Ridge National Laboratory\item Orbital Sciences Corporation\item Owens Corning\item PepsiCo / Pepsi Beverages Company\item Perrigo Company\item Plastipak Packaging, Inc.\item Reckitt Benckiser\item Schneider Electric\item Tefen\item Texas Instruments\item United States Postal Service\item Whirlpool Corporation\item ZS Associate\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf MSE}\begin{compactitem}
+		\item 3M Company\item Accenture\item American Express\item Baker Hughes\item BlackEdge Capital\item Brady Corporation\item Caterpillar Inc Engineering\item Central Intelligence Agency (CIA)\item Chicago Trading Company\item Cisco Systems\item Cooper Industries\item Cooper Tire \& Rubber Company\item Creare Inc.\item Cummins\item Cymer, Inc.\item DRW Trading Group\item Exponent\item General Electric\item General Mills\item Intel Corporation\item John Deere\item Lam Research Corporation\item Magna Powertrain\item Michelin North America\item MIT Lincoln Laboratory\item Navistar, Inc.\item Oak Ridge National Laboratory\item Orbital Sciences Corporation\item PepsiCo / Pepsi Beverages Company\item Plastipak Packaging, Inc.\item Praxair, Inc.\item Procter Gamble RD\item Reckitt Benckiser\item Rockwell Automation\item Schlumberger\item SHELL OIL COMPANY\item T. Rowe Price\item Texas Instruments\item Unilever\item US Nuclear Regulatory Commission\item Whirlpool Corporation\item ZS Associate\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf NAME}\begin{compactitem}
+		\item Accenture\item American Express\item BlackEdge Capital\item Cummins\item DRW Trading Group\item SHELL OIL COMPANY\item ZS Associate\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf NERS}\begin{compactitem}
+		\item Accenture\item American Express\item Baker Hughes\item BlackEdge Capital\item Central Intelligence Agency (CIA)\item Chicago Trading Company\item Creare Inc.\item Cymer, Inc.\item Donald C. Cook Nuclear Plant - AEP\item DRW Trading Group\item Exponent\item General Electric\item Oak Ridge National Laboratory\item US Nuclear Regulatory Commission\item ZS Associate\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf PHARM}\begin{compactitem}
+		\item Accenture\item American Express\item DRW Trading Group\item Eli Lilly and Company\item Perrigo Company\item ZS Associate\end{compactitem}
+		\end{multicols}\end{center}
+	\newpage
+	\startcompanysection
+	\fancyhead[C]{ {\fontspec{Bookman Old Style} \fontsize{40}{48}\selectfont \bf\color{white}Career Fair 2013}\\[12pt]
+	{\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Monday, September 23}\\
+	}
+	\fancyhead[C]{ {\fontspec{Bookman Old Style} \fontsize{40}{48}\selectfont \bf\color{white}Career Fair 2013}\\[12pt]
+	{\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Tuesday, September 24}\\
+	\begin{tikzpicture}[remember picture,overlay]
+	\node[yshift=-\headheight-10pt] at (current page.north)
+	{\fontsize{16}{18}\selectfont \bf Sponsors};
+	\end{tikzpicture}
+	}
+	\begin{center}\begin{multicols}{2}
+	\begin{minipage}{.95\columnwidth}{\Large\bf ArcelorMittal }\\
+	\url{www.workforcearcelormittal.com}\\
+	ArcelorMittal is the world's leading steel and mining company. Guided by a philosophy to produce safe, sustainable steel, it is the leading supplier of quality steel products in all major markets including automotive, construction, household appliances and packaging. ArcelorMittal operates in 60 countries and employs 260,000 people worldwide.\\
+	\emph{Majors:} CSE, EE, MSE, ME, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf Avery Dennison }\\
+	\url{http://www.averydennison.com/avy/en_us}\\
+	General Avery Dennison Description: Avery Dennison is a global leader in pressure-sensitive labeling materials, retail tag, ticketing and branding systems, and office products. Based in Pasadena, Calif., Avery Dennison is a FORTUNE 500 Company with 2010 sales of \$6.5 billion. Avery Dennison employs more than 30,000 individuals in over 60 countries, who develop, manufacture and market a wide range of products for both consumer and industrial markets.\\
+	\emph{Majors:} ME, CEE, MFE, BME, FE, MSE, ChE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf Bechtel Corporation }\\
+	\url{www.bechtel.com/university}\\
+	The Bechtel group of companies is a global leader in engineering, construction, and project management. With 40 offices worldwide and projects in nearly 50 nations, Bechtel offers challenging careers in power; mining and metals; civil infrastructure; government services; communications; and oil, gas, and chemicals. Bechtel has worked on some of the most complex projects in history and has been the top-ranked U.S. contractor for 14 straight years.\\
+	\emph{Majors:} ME, CEE, ChE, EE, NERS, ENV, MSE, IOE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf Chrysler Group LLC }\\
+	\url{www.chryslercareers.com}\\
+	Chrysler Group LLC is a major automotive company known in the industry for speed, style and innovation. It is an exciting time in our history! Our strategy is to design, build and deliver high-quality products and segment-defining vehicles that will continue to set us apart from the competition. Chrysler Group LLC, formed in 2009 from a global strategic alliance with Fiat Group, produces Chrysler, Jeep®, Dodge, Ram,and Mopar® brand vehicles and products.\\
+	\emph{Majors:} ME, MFE, CSE, AUTO, AERO, EE, IOE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf ExxonMobil }\\
+	\url{http://www.exxonmobil.com/Corporate/imports/careers/careers.aspx}\\
+	ExxonMobil is the world's largest publicly traded international oil and gas company. We hold an industry-leading inventory of global oil and gas resources. We are the world's largest refiner and marketer of petroleum products, and our chemical company ranks among the world's largest. We are also a technology company, applying science and innovation to find better, safer and cleaner ways to deliver the energy the world needs.\\
+	\emph{Majors:} ME, CEE, ChE, NAME, CSE, CE, EE, AOSS, FE, ENV, IOE, MSE, MFE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf NAVSEA }\\
+	\url{navsea.usajobs.gov}\\
+	Comprised of more than 60,000 civilian and military personnel in 33 global activities, professionals at NAVSEA have challenging and rewarding careers working with teammates who are recognized leaders in their fields. We build, buy and maintain ships, submarines and combat systems on time and on cost for the United States Navy. NAVSEA employees perform critical and cutting-edge defense work in science and engineering, program management, logistics, finance and technology.\\
+	\emph{Majors:} ME, CEE, ChE, BME, CSE, MSE, NERS, CE, NAME, EE, FE, ENV, IDE (UG), IDP, EP, MFE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf Northrop Grumman Corporation }\\
+	\url{careers.northropgrumman.com}\\
+	Northrop Grumman Corporation is a leading global security company providing innovative systems, products and solutions in aerospace, electronics, information systems, and technical services to government and commercial customers worldwide. Northrop Grumman is committed to hiring and retaining a diverse workforce. We are an Equal Opportunity Employer, making decisions without regard to race, color, religion, sex, national origin, age, veteran status, disability, or any other protected class. U.S. Citizenship is required for most positions\\
+	\emph{Majors:} ME, BME, CSE, AERO, CE, EE, IOE, EE:S, MSE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf Optiver }\\
+	\url{http://www.optiver.com/chicago/careers/job-vacancies}\\
+	Optiver is a worldwide market maker and derivatives trading firm headquartered in Amsterdam, with offices strategically located in Chicago and Sydney. The dynamic industry in which we operate means that state-of-the-art technology is as vital to our organization as the skills of our traders. Real time efforts equate to real time results, therefore we foster an environment of creativity, ambition and commitment to excellence.\\
+	\emph{Majors:} CSE, EP, CE, FE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf Square, Inc. }\\
+	\url{www.squareup.com/students}\\
+	Square is revolutionizing millions of everyday transactions between buyers and sellers with its free credit card reader for iPhone, iPad, and Android devices. Founded in 2009, and headquartered in San Francisco, Square is currently available in the U.S. More information is available at squareup.com.\\
+	\emph{Majors:} CSE, EE, CE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ \begin{minipage}{.95\columnwidth}{\Large\bf The Boeing Company }\\
+	\url{boeing.com/careers}\\
+	Boeing is the world's leading aerospace company and the largest manufacturer of commercial jetliners and military aircraft combined. Additionally, Boeing designs and manufactures rotorcraft, electronic and defense systems, missiles, satellites, launch vehicles and advanced information and communication systems.\\
+	\emph{Majors:} ME, CEE, ChE, CSE, AERO, CE, EE, IOE, MSE, MFE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ \end{multicols}\end{center}
+	\startcompanysection
+	\fancyhead[C]{ {\fontspec{Bookman Old Style} \fontsize{40}{48}\selectfont \bf\color{white}Career Fair 2013}\\[12pt]
+	{\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Monday, September 23}\\
+	}
+	\fancyhead[C]{ {\fontspec{Bookman Old Style} \fontsize{40}{48}\selectfont \bf\color{white}Career Fair 2013}\\[12pt]
+	{\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Tuesday, September 24}\\
+	}
+	\begin{center}\begin{multicols}{3}
+	\begin{minipage}{.9\columnwidth}{\Large\bf 3Red }\\
+	\url{3redgroup.com}\\
+	\emph{Majors:} CSE, IDP, EE, CE, EP, FE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Adobe Systems }\\
+	\url{www.adobe.com/university}\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Advantage Computing Systems, Inc. }\\
+	\url{www.advantagecs.com}\\
+	\emph{Majors:} CSE, IOE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Aernnova Engineering US, Inc. }\\
+	\url{www.humanresources@aeus.akken.com}\\
+	\emph{Majors:} ME, AERO\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Air Products }\\
+	\url{http://www.airproducts.com/careers/overview.aspx}\\
+	\emph{Majors:} ME, ChE\\
+	\emph{Positions:} Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Aisin Technical Center of America }\\
+	\url{www.aisintca.com}\\
+	\emph{Majors:} ME, ChE, EE, CE, MSE, IOE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf AkzoNobel }\\
+	\url{http://www.akzonobel.com/uscareers}\\
+	\emph{Majors:} IOE, AERO, ChE, MFE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Alcoa }\\
+	\url{www.alcoa.com}\\
+	\emph{Majors:} ME, MFE, CSE, AERO, EE, IOE, MSE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Amway }\\
+	\url{www.amway.com/careers}\\
+	\emph{Majors:} ME, CEE, ChE, BME, EE, CE, CSE, MSE, MFE\\
+	\emph{Positions:} Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Andersen Corporation }\\
+	\url{www.andersenwindows.com}\\
+	\emph{Majors:} ME, IOE, ChE, MSE, MFE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} \\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Anheuser Busch InBev }\\
+	\url{www.ab-inbev.com/ownyourfuture}\\
+	\emph{Majors:} IDP, FE, MSE, CEE, MFE, BME, EE, AOSS, IOE, CSE, AUTO, NERS, AERO, CE, ENV, IDE (UG), EP, ChE, ME, NAME, PHARM, I$\mu$SE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} \\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Applied Materials }\\
+	\url{http://www.appliedmaterials.com/}\\
+	\emph{Majors:} ME, ChE, CSE, CE, EE, MSE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Arbor Networks }\\
+	\url{http://www.arbornetworks.com}\\
+	\emph{Majors:} CSE, EE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Autoliv ASP, Inc. }\\
+	\url{www.autoliv.com}\\
+	\emph{Majors:} ME, AUTO, MFE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} \\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf BAE }\\
+	\url{http://www.baesystems.jobs}\\
+	\emph{Majors:} EE, ME, IOE, MFE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Ball Aerospace \& Technologies Corp. }\\
+	\url{www.ballaerospace.com/careers}\\
+	\emph{Majors:} ME, ChE, EE, AERO, CE, MSE, MFE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Bauer Controls }\\
+	\url{www.bauercontrols.com}\\
+	\emph{Majors:} CSE, EE, ME, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Baxter Healthcare }\\
+	\url{https://sjobs.brassring.com/1033/ASP/TG/cim_default.asp?SID=^f9KRqkCMXBS/Mig0GYhLAZc0qZqySeVcveikOGtK82Qpk9Q8kAitQA==&RegType=SubmitNow}\\
+	\emph{Majors:} ME, MFE, BME, PHARM, IOE, MSE, ChE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Bechtel Marine Propulsion Corporation }\\
+	\url{www.bmpc.com}\\
+	\emph{Majors:} ME, MFE, CEE, ChE, IDP, CSE, MSE, NERS, CE, NAME, EE, FE, ENV, IDE (UG), IOE, EP, I$\mu$SE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Behr America }\\
+	\url{http://behr.de/internet/cms_usa.nsf/}\\
+	\emph{Majors:} EE, AUTO, IOE, ME, MFE\\
+	\emph{Positions:} Full-time, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Belcan Advanced Engineering and Technology }\\
+	\url{www.belcan.com}\\
+	\emph{Majors:} CSE, EE, AERO, ME, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf BlackRock }\\
+	\url{www.blackrock.com}\\
+	\emph{Majors:} ME, CEE, CSE, CE, EE, FE, MSE, EP\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Bloomberg L.P. }\\
+	\url{http://www.bloomberg.com/careers/entry-level/}\\
+	\emph{Majors:} ME, MFE, CEE, ChE, BME, CSE, AUTO, NERS, AERO, MSE, CE, EE, AOSS, PHARM, FE, ENV, IDP, IDE (UG), IOE, EP, I$\mu$SE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Bose Corporation }\\
+	\url{www.bose.com}\\
+	\emph{Majors:} ME, CEE, MFE, CSE, CE, EE, IOE, EP\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Bostik, Inc. }\\
+	\url{www.bostik-us.com/careers}\\
+	\emph{Majors:} MSE, ChE\\
+	\emph{Positions:} Summer Internship\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Broadcom }\\
+	\url{www.broadcom.com/careers/ur}\\
+	\emph{Majors:} CSE, EE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf BWI Group }\\
+	\url{www.bwigroup.com}\\
+	\emph{Majors:} EE, AUTO, ME, MFE, CE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Campbell Soup }\\
+	\url{careers.campbellsoupcompany.com}\\
+	\emph{Majors:} ME, MFE, EP, IOE, MSE, ChE\\
+	\emph{Positions:} Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Capgemini }\\
+	\url{Capgemini.com}\\
+	\emph{Majors:} ME, CEE, ChE, BME, CSE, AUTO, AERO, CE, NAME, EE, FE, ENV, MSE, IOE, EP, MFE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Capital One }\\
+	\url{www.capitalone.com/careers}\\
+	\emph{Majors:} ME, CEE, ChE, CSE, AERO, CE, EE, FE, ENV, MSE, IOE, EP\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} \\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf CareEvolution }\\
+	\url{http://careevolution.com}\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Caterpillar Inc Technical Marketing }\\
+	\url{www.JoinTeamCaterpillar.com}\\
+	\emph{Majors:} \\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Chemical Abstracts Service }\\
+	\url{www.cas.org/careers}\\
+	\emph{Majors:} CSE, ChE, CE\\
+	\emph{Positions:} Full-time, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Citrix Systems, Inc. }\\
+	\url{www.citrix.com}\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Clarkston Consulting }\\
+	\url{www.clarkstonconsulting.com}\\
+	\emph{Majors:} ME, ChE, BME, CSE, CE, PHARM, IDE (UG), IOE, MFE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf CME Group }\\
+	\url{http://tbe.taleo.net/NA11/ats/careers/jobSearch.jsp?org=CMEGROUP&cws=1}\\
+	\emph{Majors:} CSE, CE, FE, IDE (UG), IOE, EP\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Commonwealth Associates, Inc. }\\
+	\url{www.cai-engr.com}\\
+	\emph{Majors:} EE, ME, CEE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Conestoga, Rovers \& Associates, Inc. }\\
+	\url{www.craworld.com}\\
+	\emph{Majors:} ME, CEE, ChE, ENV\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf ConocoPhillips }\\
+	\url{http://www.conocophillips.com/EN/careers/univrecruit/jobsearch/pages/index.aspx}\\
+	\emph{Majors:} EE, CEE, NERS, ChE, EP\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Cooper Standard }\\
+	\url{www.cooperstandard.com/}\\
+	\emph{Majors:} ME, MFE, EE, AUTO, IOE, MSE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Cybernet Systems Corporation }\\
+	\url{https://ats.navicus.com/careers/jobsearch.aspx?CompanyID=cybernet&currentcompany=1&website=careers&GUID=d74e591e-9108-404c-90d2-3de2b4fa2ade}\\
+	\emph{Majors:} ME, CSE, AERO, CE, EE, EP\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf DCS Corp }\\
+	\url{www.dcscorp.com/careers}\\
+	\emph{Majors:} CSE, EE, ME, EP, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf DePuy Orthopaedics }\\
+	\url{www.careers.jnj.com}\\
+	\emph{Majors:} ME, MSE, BME\\
+	\emph{Positions:} Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Dow Corning Corporation }\\
+	\url{http://www.dowcorning.com/}\\
+	\emph{Majors:} ME, MSE, ChE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Bachelors, PhD\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Echelon Consulting }\\
+	\url{www.echelon.org}\\
+	\emph{Majors:} CSE, EE, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Elektrobit Automotive Inc. }\\
+	\url{http://ebcareersusa.elektrobit.com/}\\
+	\emph{Majors:} CSE, EE, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Elmet Holdings }\\
+	\url{www.elmettechnologies.com}\\
+	\emph{Majors:} ME, IOE, AERO, MFE, MSE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf ESG Automotive }\\
+	\url{www.esg-usa.com}\\
+	\emph{Majors:} EE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Etherios }\\
+	\url{www.etherios.com}\\
+	\emph{Majors:} CSE, ME, EP, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Federal-Mogul }\\
+	\url{www.federalmogul.com/en/careers}\\
+	\emph{Majors:} ME, AUTO, IOE, MFE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} \\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf FedEx SmartPost }\\
+	\url{www.fedex.com/careers}\\
+	\emph{Majors:} ME, IOE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf FEV Inc }\\
+	\url{http://www.fev.com/careers/how-to-apply/}\\
+	\emph{Majors:} EE, AUTO, ME, EP, MFE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Ford Motor Company }\\
+	\url{http://www.mycareer.ford.com}\\
+	\emph{Majors:} ME, MFE, BME, CSE, AUTO, AERO, CE, EE, ENV, IOE, MSE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Freddie Mac }\\
+	\url{www.freddiemac.com}\\
+	\emph{Majors:} CSE, FE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf General Dynamics Advanced Information Systems }\\
+	\url{www.gd-ais.com/careers}\\
+	\emph{Majors:} EE, NAME, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf General Dynamics, Bath Iron Works }\\
+	\url{https://www.gdbiw.com/JobsAtBIW.html}\\
+	\emph{Majors:} EE, ME, CEE, NAME\\
+	\emph{Positions:} Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf General Motors }\\
+	\url{careers.gm.com}\\
+	\emph{Majors:} ME, MFE, CSE, AUTO, CE, EE, IOE, MSE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf GKN Sinter Metals }\\
+	\url{www.gknsintermetals.com}\\
+	\emph{Majors:} ME, MFE, EE, AUTO, IOE, MSE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Google Inc. }\\
+	\url{www.google.com/jobs}\\
+	\emph{Majors:} CSE, EE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Granite Services International, Inc. }\\
+	\url{https://powersource.gsinc.com/recruiting}\\
+	\emph{Majors:} ME, CEE, NERS, ChE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Harman }\\
+	\url{http://www.harman.com/Careers/Pages/Welcome.aspx}\\
+	\emph{Majors:} CSE, EE, ME, CE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Harris Corporation }\\
+	\url{www.harris.com}\\
+	\emph{Majors:} ME, MFE, CSE, CE, EE, IOE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf HDR }\\
+	\url{http://www.hdrinc.com/careers}\\
+	\emph{Majors:} EE, ME, CEE, ChE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf HDT Global }\\
+	\url{www.hdtglobal.com}\\
+	\emph{Majors:} EE, ME\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Huntington Ingalls Shipbuilding }\\
+	\url{https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25477&siteid=5548}\\
+	\emph{Majors:} ME, CEE, ChE, NAME, CSE, NERS, CE, EE, AOSS, ENV, MSE, IOE, EP, MFE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Hyundai America Technical Center, Inc. }\\
+	\url{www.hatci.com}\\
+	\emph{Majors:} ME, MFE, CSE, AUTO, AERO, CE, EE, ENV, IOE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf IAV Automotive Engineering }\\
+	\url{www.IAV.com/us}\\
+	\emph{Majors:} EE, AUTO, ME\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf IBM }\\
+	\url{www.ibm.com/start}\\
+	\emph{Majors:} ME, ChE, BME, CSE, AUTO, AERO, CE, EE, FE, MSE, IOE, EP\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf IMC Financial Markets }\\
+	\url{http://imc-chicago.com/}\\
+	\emph{Majors:} CSE, EP, CE, FE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Indeed, Inc. }\\
+	\url{www.indeed.com}\\
+	\emph{Majors:} CSE, EE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Integrated Device Technology }\\
+	\url{http://www.idt.com/}\\
+	\emph{Majors:} CSE, EE, MSE, CE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Intrepid Control Systems, Inc. }\\
+	\url{www.intrepidcs.com}\\
+	\emph{Majors:} CSE, EE, CE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Johns Hopkins University Applied Physics Laboratory }\\
+	\url{https://jhuapl.taleo.net/careersection/4/joblist.ftl}\\
+	\emph{Majors:} ME, BME, CSE, AERO, CE, EE, AOSS, MSE, IOE, EP\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Johnson Controls, Inc }\\
+	\url{www.johnsoncontrols.com/careers}\\
+	\emph{Majors:} ME, CEE, MFE, EE, CE, IOE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Keithley Instruments }\\
+	\url{https://danaher.taleo.net/careersection/external/jobdetail.ftl}\\
+	\emph{Majors:} CSE, EE, CE\\
+	\emph{Positions:} Full-time, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Kellogg }\\
+	\url{www.kelloggcareers.com}\\
+	\emph{Majors:} IOE, ChE, CE, MFE\\
+	\emph{Positions:} Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf KLA-Tencor }\\
+	\url{www.kla-tencor.com/college}\\
+	\emph{Majors:} ME, ChE, CSE, CE, EE, MSE, IOE, EP, MFE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Kubica Corporation }\\
+	\url{www.KubicaCorp.com}\\
+	\emph{Majors:} EE, CE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Lean Care Solutions }\\
+	\url{n/a}\\
+	\emph{Majors:} CSE, EE, IOE, CE, BME\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf L'Oreal USA }\\
+	\url{www.lorealusa.jobs}\\
+	\emph{Majors:} ME, IOE, ChE, MFE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Los Alamos National Laboratory }\\
+	\url{http://www.lanl.gov/orgs/hr/jobs/}\\
+	\emph{Majors:} ME, CEE, ChE, BME, CSE, NERS, CE, EE, ENV, IDE (UG), MSE, EP\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Lyons Consulting Group }\\
+	\url{www.lyonscg.com}\\
+	\emph{Majors:} CSE, EP, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Marathon Petroleum Company LP }\\
+	\url{www.marathonpetroleum.com/careers}\\
+	\emph{Majors:} EE, ME, MSE, ChE\\
+	\emph{Positions:} Summer Internship, Co-Op\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Merck \& Co. }\\
+	\url{http://www.merck.com/careers/search-and-apply/submit-resume/home.html}\\
+	\emph{Majors:} PHARM, ChE, BME\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Meritor, Inc. }\\
+	\url{www.meritor.com/workwithus}\\
+	\emph{Majors:} EE, AUTO, IOE, ME\\
+	\emph{Positions:} Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Mubea NA }\\
+	\url{www.mubea.com}\\
+	\emph{Majors:} \\
+	\emph{Positions:} Full-time, Co-Op\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Muller-BBM Vibroacoustic Systeme, Inc. }\\
+	\url{www.pak4nvh.com}\\
+	\emph{Majors:} ME, AUTO, AERO, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf NASA Johnson Space Center Co-op Program }\\
+	\url{http://coop.jsc.nasa.gov}\\
+	\emph{Majors:} ME, CSE, AERO, CE, EE, AOSS, MSE, EP\\
+	\emph{Positions:} Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf National Security Agency }\\
+	\url{www.nsa.gov/careers}\\
+	\emph{Majors:} CSE, EE, CE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf NAVSEA Norfolk Naval Shipyard }\\
+	\url{navsea.usajobs.gov}\\
+	\emph{Majors:} ME, CEE, ChE, EE, NERS, AERO, MSE, AOSS, IOE, EP, NAME\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Navy Recruiting District Michigan }\\
+	\url{Navy.com}\\
+	\emph{Majors:} IDP, FE, MSE, CEE, MFE, BME, EE, AOSS, IOE, CSE, AUTO, NERS, AERO, CE, ENV, IDE (UG), EP, ChE, ME, NAME, PHARM, I$\mu$SE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Nissan North America }\\
+	\url{www.nissan.jobs}\\
+	\emph{Majors:} EE, AUTO, ME\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Numerica Corporation }\\
+	\url{http://www.numerica.us/career_main.html}\\
+	\emph{Majors:} CSE, EE, AERO, EP, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Opal-RT Technologies }\\
+	\url{www.opal-rt.com}\\
+	\emph{Majors:} EE, CE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Palantir Technologies }\\
+	\url{http://www.palantir.com/careers/OpenPositionLanding}\\
+	\emph{Majors:} CSE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf PNC Financial Services }\\
+	\url{www.pnc.jobs/students}\\
+	\emph{Majors:} FE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf POWER Engineers, Inc. }\\
+	\url{www.powereng.com}\\
+	\emph{Majors:} EE, CEE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf PRATT \& WHITNEY }\\
+	\url{http://www.prattcareers.com/job_start.asp}\\
+	\emph{Majors:} ME, MFE, CSE, AERO, CE, EE, IDE (UG), IOE, MSE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Quantum Signal, LLC }\\
+	\url{www.quantumsignal.com}\\
+	\emph{Majors:} CSE, EE, ME, EP, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Raymond James Financial }\\
+	\url{www.raymondjames.com}\\
+	\emph{Majors:} CSE, FE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Raytheon Company }\\
+	\url{www.raytheon.com/campus}\\
+	\emph{Majors:} EE, ME, AERO, EP, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Readyforce }\\
+	\url{www.readyforce.com}\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf RECSOLU }\\
+	\url{www.recsolu.com}\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Ricardo, Inc. }\\
+	\url{https://www.appone.com/MainInfoReq.asp?R_ID=506761}\\
+	\emph{Majors:} EE, AUTO, ME\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Saggezza }\\
+	\url{www.saggezza.com}\\
+	\emph{Majors:} CSE, EP, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Samsung Austin R\&D Center (SARC) }\\
+	\url{www.samsung.com}\\
+	\emph{Majors:} CSE, EE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Sandia National Laboratories }\\
+	\url{http://www.sandia.gov/careers/}\\
+	\emph{Majors:} ME, CEE, ChE, BME, CSE, NERS, AERO, CE, EE, IDP, IDE (UG), MSE, EP, I$\mu$SE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf SAY Media }\\
+	\url{http://www.saymedia.com/jobs.php}\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf SBM Offshore }\\
+	\url{https://hire.jobvite.com/CompanyJobs/Careers.aspx?k=JobListing&c=qSc9VfwS&v=1}\\
+	\emph{Majors:} ME, CEE, ChE, EE, MSE, NAME\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Seelio }\\
+	\url{www.seelio.com}\\
+	\emph{Majors:} CSE\\
+	\emph{Positions:} Summer Internship\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Severstal Dearborn LLC }\\
+	\url{Severstalna.com}\\
+	\emph{Majors:} ME, ChE, CSE, CE, EE, ENV\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf SGL Group }\\
+	\url{https://sglcarbon.peopleadmin.com/}\\
+	\emph{Majors:} EE, ME, CEE, ChE, MFE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Southwest Research Institute }\\
+	\url{www.swri.jobs}\\
+	\emph{Majors:} EE, ME, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Space And Naval Warfare (SPAWAR) Systems Center Pacific (SSC PAC) }\\
+	\url{https://jobs.spawar.navy.mil}\\
+	\emph{Majors:} CSE, EE, ME, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf SpaceX }\\
+	\url{www.spacex.com/careers}\\
+	\emph{Majors:} ME, CEE, MFE, CSE, AERO, CE, EE, IOE, MSE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Spot Trading LLC }\\
+	\url{http://www.spottradingllc.com/careers/campus-openings/}\\
+	\emph{Majors:} EE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf State Farm Insurance }\\
+	\url{http://www.statefarm.com/about/careers/it}\\
+	\emph{Majors:} CSE, AUTO, EE, FE, CE\\
+	\emph{Positions:} Summer Internship\\
+	\emph{Degrees:} \\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Tata Consultancy Services }\\
+	\url{www.tcs.com}\\
+	\emph{Majors:} CSE, EE, ME, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf TechSmith Corporation }\\
+	\url{www.techsmith.com}\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf The Advisory Board Company }\\
+	\url{https://www.advisory.com/careers}\\
+	\emph{Majors:} CSE, EP, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf The Bartech Group }\\
+	\url{https://www.bartechgroup.com/home/}\\
+	\emph{Majors:} ME, MFE, BME, EE, AUTO, AERO, CE, PHARM, ENV, IOE, EP\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf The Keystone Group }\\
+	\url{www.thekeystonegroup.com}\\
+	\emph{Majors:} IDP, FE, MSE, CEE, MFE, BME, EE, AOSS, IOE, CSE, AUTO, NERS, AERO, CE, ENV, IDE (UG), EP, ChE, ME, NAME, PHARM, I$\mu$SE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf The Timken Company }\\
+	\url{http://www.timken.com/en-US/careers/Pages/default.aspx}\\
+	\emph{Majors:} EE, ME, IOE, MSE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Theranos }\\
+	\url{www.theranos.com}\\
+	\emph{Majors:} EE, ME, MFE, CE, BME\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Thomson Reuters }\\
+	\url{http://careers.thomsonreuters.com}\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf ThoughtWorks }\\
+	\url{http://join.thoughtworks.com/}\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Tognum America Inc. }\\
+	\url{Tognum America Inc. is an equal opportunity employer. Only candidates who apply via the company website will be considered. www.tognumamericacareers.com}\\
+	\emph{Majors:} ME, CEE, MFE, EE, AUTO, IOE, MSE, NAME\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf TransCanada Corporation }\\
+	\url{http://www.transcanada.com/student-opportunities.html}\\
+	\emph{Majors:} EE, ME, ENV\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf TripAdvisor }\\
+	\url{www.tripadvisor.com}\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Twilio }\\
+	\url{http://www.twilio.com/company/jobs}\\
+	\emph{Majors:} CSE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Urban Science }\\
+	\url{https://careers-urbanscience.icims.com/jobs/intro}\\
+	\emph{Majors:} CSE, IOE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf URS Energy Construction }\\
+	\url{www.urscorp.com}\\
+	\emph{Majors:} ME, CEE, ChE, EE, NERS, CE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf US DOT Small Business Transportation Resource Center (Great Lakes Region) }\\
+	\url{http://www.osdbu.dot.gov/WG/applications.cfm}\\
+	\emph{Majors:} EE, IDE (UG), CEE, ME, ENV\\
+	\emph{Positions:} Co-Op\\
+	\emph{Degrees:} \\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf US Environmental Protection Agency }\\
+	\url{epa.gov/otaq}\\
+	\emph{Majors:} EE, ME, ChE, ENV\\
+	\emph{Positions:} Summer Internship, Co-Op\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 3\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Vector CANtech }\\
+	\url{www.vector.com}\\
+	\emph{Majors:} CSE, EE, CE\\
+	\emph{Positions:} Full-time, Co-Op\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf ViaSat, Inc. }\\
+	\url{www.viasat.com}\\
+	\emph{Majors:} CSE, EE, IOE, ME, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf VMware }\\
+	\url{http://www.vmware.com/jobs/university-relations/}\\
+	\emph{Majors:} CSE, EE, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf VMware }\\
+	\url{www.vmware.com}\\
+	\emph{Majors:} CSE, EE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} PhD, Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf W.W. Grainger }\\
+	\url{www.grainger.com}\\
+	\emph{Majors:} IOE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Walmart }\\
+	\url{www.walmartstores.com}\\
+	\emph{Majors:} IOE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Westinghouse Electric Company }\\
+	\url{https://sjobs.brassring.com/EN/asp/tg/cim_home.asp?partnerid=11716&siteid=113}\\
+	\emph{Majors:} ME, CEE, CSE, NERS, CE, EE, MSE, IOE\\
+	\emph{Positions:} Full-time, Summer Internship, Co-Op\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 2\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf WhaleShark Media }\\
+	\url{http://www.whalesharkmedia.com/opportunities}\\
+	\emph{Majors:} CSE, EP, CE\\
+	\emph{Positions:} Full-time, Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\begin{minipage}{.9\columnwidth}{\Large\bf Zappos.com, Inc. }\\
+	\url{jobs.zappos.com}\\
+	\emph{Majors:} IDP, I$\mu$SE, CSE, CE, FE, IDE (UG), IOE\\
+	\emph{Positions:} Summer Internship\\
+	\emph{Degrees:} Masters, Bachelors\\
+	\emph{Hiring Policy:} 1\\
+\end{minipage}
+ 
+\end{multicols}\end{center}
+	\newpage\newgeometry{left=0pt,right=15pt,bottom=5pt,includehead,headheight=1.6in,top=0in,twoside=false}
+	\fancyhead[C]{ {\fontspec{Bookman Old Style} \fontsize{40}{48}\selectfont \bf\color{white}Career Fair 2013}\\[12pt]
+	{\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Tuesday, September 24}\\
+	\begin{tikzpicture}[remember picture,overlay]
+	\node[yshift=-\headheight-10pt] at (current page.north)
+	{\fontsize{16}{18}\selectfont \bf Companies by Major};
+	\end{tikzpicture}
+	}
+	\begin{center}\begin{multicols}{5}
+	{\fontsize{14}{16}\selectfont \bf AERO}\begin{compactitem}
+		\item Aernnova Engineering US, Inc.\item AkzoNobel\item Alcoa\item Anheuser Busch InBev\item Ball Aerospace \& Technologies Corp.\item Belcan Advanced Engineering and Technology\item Bloomberg L.P.\item Capgemini\item Capital One\item Chrysler Group LLC\item Cybernet Systems Corporation\item Elmet Holdings\item Ford Motor Company\item Hyundai America Technical Center, Inc.\item IBM\item Johns Hopkins University Applied Physics Laboratory\item Muller-BBM Vibroacoustic Systeme, Inc.\item NASA Johnson Space Center Co-op Program\item NAVSEA Norfolk Naval Shipyard\item Navy Recruiting District Michigan\item Northrop Grumman Corporation\item Numerica Corporation\item PRATT \& WHITNEY\item Raytheon Company\item Sandia National Laboratories\item SpaceX\item The Bartech Group\item The Boeing Company\item The Keystone Group\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf AOSS}\begin{compactitem}
+		\item Anheuser Busch InBev\item Bloomberg L.P.\item ExxonMobil\item Huntington Ingalls Shipbuilding\item Johns Hopkins University Applied Physics Laboratory\item NASA Johnson Space Center Co-op Program\item NAVSEA Norfolk Naval Shipyard\item Navy Recruiting District Michigan\item The Keystone Group\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf AUTO}\begin{compactitem}
+		\item Anheuser Busch InBev\item Autoliv ASP, Inc.\item Behr America\item Bloomberg L.P.\item BWI Group\item Capgemini\item Chrysler Group LLC\item Cooper Standard\item Federal-Mogul\item FEV Inc\item Ford Motor Company\item General Motors\item GKN Sinter Metals\item Hyundai America Technical Center, Inc.\item IAV Automotive Engineering\item IBM\item Meritor, Inc.\item Muller-BBM Vibroacoustic Systeme, Inc.\item Navy Recruiting District Michigan\item Nissan North America\item Ricardo, Inc.\item State Farm Insurance\item The Bartech Group\item The Keystone Group\item Tognum America Inc.\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf BME}\begin{compactitem}
+		\item Amway\item Anheuser Busch InBev\item Avery Dennison\item Baxter Healthcare\item Bloomberg L.P.\item Capgemini\item Clarkston Consulting\item DePuy Orthopaedics\item Ford Motor Company\item IBM\item Johns Hopkins University Applied Physics Laboratory\item Lean Care Solutions\item Los Alamos National Laboratory\item Merck \& Co.\item NAVSEA\item Navy Recruiting District Michigan\item Northrop Grumman Corporation\item Sandia National Laboratories\item The Bartech Group\item The Keystone Group\item Theranos\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf CE}\begin{compactitem}
+		\item 3Red\item Adobe Systems\item Advantage Computing Systems, Inc.\item Aisin Technical Center of America\item Amway\item Anheuser Busch InBev\item Applied Materials\item ArcelorMittal\item BAE\item Ball Aerospace \& Technologies Corp.\item Bauer Controls\item Bechtel Marine Propulsion Corporation\item Belcan Advanced Engineering and Technology\item BlackRock\item Bloomberg L.P.\item Bose Corporation\item BWI Group\item Capgemini\item Capital One\item CareEvolution\item Chemical Abstracts Service\item Citrix Systems, Inc.\item Clarkston Consulting\item CME Group\item Cybernet Systems Corporation\item DCS Corp\item Echelon Consulting\item Elektrobit Automotive Inc.\item Etherios\item ExxonMobil\item Ford Motor Company\item Freddie Mac\item General Dynamics Advanced Information Systems\item General Motors\item Google Inc.\item Harman\item Harris Corporation\item Huntington Ingalls Shipbuilding\item Hyundai America Technical Center, Inc.\item IBM\item IMC Financial Markets\item Indeed, Inc.\item Integrated Device Technology\item Intrepid Control Systems, Inc.\item Johns Hopkins University Applied Physics Laboratory\item Johnson Controls, Inc\item Keithley Instruments\item Kellogg\item KLA-Tencor\item Kubica Corporation\item Lean Care Solutions\item Los Alamos National Laboratory\item Lyons Consulting Group\item Muller-BBM Vibroacoustic Systeme, Inc.\item NASA Johnson Space Center Co-op Program\item National Security Agency\item NAVSEA\item Navy Recruiting District Michigan\item Northrop Grumman Corporation\item Numerica Corporation\item Opal-RT Technologies\item Optiver\item PRATT \& WHITNEY\item Quantum Signal, LLC\item Raymond James Financial\item Raytheon Company\item Readyforce\item RECSOLU\item Saggezza\item Samsung Austin R\&D Center (SARC)\item Sandia National Laboratories\item SAY Media\item Severstal Dearborn LLC\item Southwest Research Institute\item Space And Naval Warfare (SPAWAR) Systems Center Pacific (SSC PAC)\item SpaceX\item Spot Trading LLC\item Square, Inc.\item State Farm Insurance\item Tata Consultancy Services\item TechSmith Corporation\item The Advisory Board Company\item The Bartech Group\item The Boeing Company\item The Keystone Group\item Theranos\item Thomson Reuters\item ThoughtWorks\item TripAdvisor\item Twilio\item Urban Science\item URS Energy Construction\item Vector CANtech\item ViaSat, Inc.\item VMware\item Westinghouse Electric Company\item WhaleShark Media\item Zappos.com, Inc.\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf CEE}\begin{compactitem}
+		\item Amway\item Anheuser Busch InBev\item Avery Dennison\item Bechtel Corporation\item Bechtel Marine Propulsion Corporation\item BlackRock\item Bloomberg L.P.\item Bose Corporation\item Capgemini\item Capital One\item Commonwealth Associates, Inc.\item Conestoga, Rovers \& Associates, Inc.\item ConocoPhillips\item ExxonMobil\item General Dynamics, Bath Iron Works\item Granite Services International, Inc.\item HDR\item Huntington Ingalls Shipbuilding\item Johnson Controls, Inc\item Los Alamos National Laboratory\item NAVSEA\item NAVSEA Norfolk Naval Shipyard\item Navy Recruiting District Michigan\item POWER Engineers, Inc.\item Sandia National Laboratories\item SBM Offshore\item SGL Group\item SpaceX\item The Boeing Company\item The Keystone Group\item Tognum America Inc.\item URS Energy Construction\item US DOT Small Business Transportation Resource Center (Great Lakes Region)\item Westinghouse Electric Company\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf CSE}\begin{compactitem}
+		\item 3Red\item Adobe Systems\item Advantage Computing Systems, Inc.\item Alcoa\item Amway\item Anheuser Busch InBev\item Applied Materials\item Arbor Networks\item ArcelorMittal\item Bauer Controls\item Bechtel Marine Propulsion Corporation\item Belcan Advanced Engineering and Technology\item BlackRock\item Bloomberg L.P.\item Bose Corporation\item Broadcom\item Capgemini\item Capital One\item CareEvolution\item Chemical Abstracts Service\item Chrysler Group LLC\item Citrix Systems, Inc.\item Clarkston Consulting\item CME Group\item Cybernet Systems Corporation\item DCS Corp\item Echelon Consulting\item Elektrobit Automotive Inc.\item Etherios\item ExxonMobil\item Ford Motor Company\item Freddie Mac\item General Motors\item Google Inc.\item Harman\item Harris Corporation\item Huntington Ingalls Shipbuilding\item Hyundai America Technical Center, Inc.\item IBM\item IMC Financial Markets\item Indeed, Inc.\item Integrated Device Technology\item Intrepid Control Systems, Inc.\item Johns Hopkins University Applied Physics Laboratory\item Keithley Instruments\item KLA-Tencor\item Lean Care Solutions\item Los Alamos National Laboratory\item Lyons Consulting Group\item NASA Johnson Space Center Co-op Program\item National Security Agency\item NAVSEA\item Navy Recruiting District Michigan\item Northrop Grumman Corporation\item Numerica Corporation\item Optiver\item Palantir Technologies\item PRATT \& WHITNEY\item Quantum Signal, LLC\item Raymond James Financial\item Readyforce\item RECSOLU\item Saggezza\item Samsung Austin R\&D Center (SARC)\item Sandia National Laboratories\item SAY Media\item Seelio\item Severstal Dearborn LLC\item Space And Naval Warfare (SPAWAR) Systems Center Pacific (SSC PAC)\item SpaceX\item Square, Inc.\item State Farm Insurance\item Tata Consultancy Services\item TechSmith Corporation\item The Advisory Board Company\item The Boeing Company\item The Keystone Group\item Thomson Reuters\item ThoughtWorks\item TripAdvisor\item Twilio\item Urban Science\item Vector CANtech\item ViaSat, Inc.\item VMware\item VMware\item Westinghouse Electric Company\item WhaleShark Media\item Zappos.com, Inc.\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf ChE}\begin{compactitem}
+		\item Air Products\item Aisin Technical Center of America\item AkzoNobel\item Amway\item Andersen Corporation\item Anheuser Busch InBev\item Applied Materials\item Avery Dennison\item Ball Aerospace \& Technologies Corp.\item Baxter Healthcare\item Bechtel Corporation\item Bechtel Marine Propulsion Corporation\item Bloomberg L.P.\item Bostik, Inc.\item Campbell Soup\item Capgemini\item Capital One\item Chemical Abstracts Service\item Clarkston Consulting\item Conestoga, Rovers \& Associates, Inc.\item ConocoPhillips\item Dow Corning Corporation\item ExxonMobil\item Granite Services International, Inc.\item HDR\item Huntington Ingalls Shipbuilding\item IBM\item Kellogg\item KLA-Tencor\item L'Oreal USA\item Los Alamos National Laboratory\item Marathon Petroleum Company LP\item Merck \& Co.\item NAVSEA\item NAVSEA Norfolk Naval Shipyard\item Navy Recruiting District Michigan\item Sandia National Laboratories\item SBM Offshore\item Severstal Dearborn LLC\item SGL Group\item The Boeing Company\item The Keystone Group\item URS Energy Construction\item US Environmental Protection Agency\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf EE}\begin{compactitem}
+		\item 3Red\item Aisin Technical Center of America\item Alcoa\item Amway\item Anheuser Busch InBev\item Applied Materials\item Arbor Networks\item ArcelorMittal\item BAE\item Ball Aerospace \& Technologies Corp.\item Bauer Controls\item Bechtel Corporation\item Bechtel Marine Propulsion Corporation\item Behr America\item Belcan Advanced Engineering and Technology\item BlackRock\item Bloomberg L.P.\item Bose Corporation\item Broadcom\item BWI Group\item Capgemini\item Capital One\item Chrysler Group LLC\item Commonwealth Associates, Inc.\item ConocoPhillips\item Cooper Standard\item Cybernet Systems Corporation\item DCS Corp\item Echelon Consulting\item Elektrobit Automotive Inc.\item ESG Automotive\item ExxonMobil\item FEV Inc\item Ford Motor Company\item General Dynamics Advanced Information Systems\item General Dynamics, Bath Iron Works\item General Motors\item GKN Sinter Metals\item Google Inc.\item Harman\item Harris Corporation\item HDR\item HDT Global\item Huntington Ingalls Shipbuilding\item Hyundai America Technical Center, Inc.\item IAV Automotive Engineering\item IBM\item Indeed, Inc.\item Integrated Device Technology\item Intrepid Control Systems, Inc.\item Johns Hopkins University Applied Physics Laboratory\item Johnson Controls, Inc\item Keithley Instruments\item KLA-Tencor\item Kubica Corporation\item Lean Care Solutions\item Los Alamos National Laboratory\item Marathon Petroleum Company LP\item Meritor, Inc.\item NASA Johnson Space Center Co-op Program\item National Security Agency\item NAVSEA\item NAVSEA Norfolk Naval Shipyard\item Navy Recruiting District Michigan\item Nissan North America\item Northrop Grumman Corporation\item Numerica Corporation\item Opal-RT Technologies\item POWER Engineers, Inc.\item PRATT \& WHITNEY\item Quantum Signal, LLC\item Raytheon Company\item Ricardo, Inc.\item Samsung Austin R\&D Center (SARC)\item Sandia National Laboratories\item SBM Offshore\item Severstal Dearborn LLC\item SGL Group\item Southwest Research Institute\item Space And Naval Warfare (SPAWAR) Systems Center Pacific (SSC PAC)\item SpaceX\item Spot Trading LLC\item Square, Inc.\item State Farm Insurance\item Tata Consultancy Services\item The Bartech Group\item The Boeing Company\item The Keystone Group\item The Timken Company\item Theranos\item Tognum America Inc.\item TransCanada Corporation\item URS Energy Construction\item US DOT Small Business Transportation Resource Center (Great Lakes Region)\item US Environmental Protection Agency\item Vector CANtech\item ViaSat, Inc.\item VMware\item VMware\item Westinghouse Electric Company\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf EE:S}\begin{compactitem}
+		\item Northrop Grumman Corporation\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf ENV}\begin{compactitem}
+		\item Anheuser Busch InBev\item Bechtel Corporation\item Bechtel Marine Propulsion Corporation\item Bloomberg L.P.\item Capgemini\item Capital One\item Conestoga, Rovers \& Associates, Inc.\item ExxonMobil\item Ford Motor Company\item Huntington Ingalls Shipbuilding\item Hyundai America Technical Center, Inc.\item Los Alamos National Laboratory\item NAVSEA\item Navy Recruiting District Michigan\item Severstal Dearborn LLC\item The Bartech Group\item The Keystone Group\item TransCanada Corporation\item US DOT Small Business Transportation Resource Center (Great Lakes Region)\item US Environmental Protection Agency\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf EP}\begin{compactitem}
+		\item 3Red\item Anheuser Busch InBev\item Bechtel Marine Propulsion Corporation\item BlackRock\item Bloomberg L.P.\item Bose Corporation\item Campbell Soup\item Capgemini\item Capital One\item CME Group\item ConocoPhillips\item Cybernet Systems Corporation\item DCS Corp\item Etherios\item FEV Inc\item Huntington Ingalls Shipbuilding\item IBM\item IMC Financial Markets\item Johns Hopkins University Applied Physics Laboratory\item KLA-Tencor\item Los Alamos National Laboratory\item Lyons Consulting Group\item NASA Johnson Space Center Co-op Program\item NAVSEA\item NAVSEA Norfolk Naval Shipyard\item Navy Recruiting District Michigan\item Numerica Corporation\item Optiver\item Quantum Signal, LLC\item Raytheon Company\item Saggezza\item Sandia National Laboratories\item The Advisory Board Company\item The Bartech Group\item The Keystone Group\item WhaleShark Media\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf FE}\begin{compactitem}
+		\item 3Red\item Anheuser Busch InBev\item Avery Dennison\item Bechtel Marine Propulsion Corporation\item BlackRock\item Bloomberg L.P.\item Capgemini\item Capital One\item CME Group\item ExxonMobil\item Freddie Mac\item IBM\item IMC Financial Markets\item NAVSEA\item Navy Recruiting District Michigan\item Optiver\item PNC Financial Services\item Raymond James Financial\item State Farm Insurance\item The Keystone Group\item Zappos.com, Inc.\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf I$\mu$SE}\begin{compactitem}
+		\item Anheuser Busch InBev\item Bechtel Marine Propulsion Corporation\item Bloomberg L.P.\item Navy Recruiting District Michigan\item Sandia National Laboratories\item The Keystone Group\item Zappos.com, Inc.\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf IDE (UG)}\begin{compactitem}
+		\item Anheuser Busch InBev\item Bechtel Marine Propulsion Corporation\item Bloomberg L.P.\item Clarkston Consulting\item CME Group\item Los Alamos National Laboratory\item NAVSEA\item Navy Recruiting District Michigan\item PRATT \& WHITNEY\item Sandia National Laboratories\item The Keystone Group\item US DOT Small Business Transportation Resource Center (Great Lakes Region)\item Zappos.com, Inc.\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf IDP}\begin{compactitem}
+		\item 3Red\item Anheuser Busch InBev\item Bechtel Marine Propulsion Corporation\item Bloomberg L.P.\item NAVSEA\item Navy Recruiting District Michigan\item Sandia National Laboratories\item The Keystone Group\item Zappos.com, Inc.\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf IOE}\begin{compactitem}
+		\item Advantage Computing Systems, Inc.\item Aisin Technical Center of America\item AkzoNobel\item Alcoa\item Andersen Corporation\item Anheuser Busch InBev\item BAE\item Baxter Healthcare\item Bechtel Corporation\item Bechtel Marine Propulsion Corporation\item Behr America\item Bloomberg L.P.\item Bose Corporation\item Campbell Soup\item Capgemini\item Capital One\item Chrysler Group LLC\item Clarkston Consulting\item CME Group\item Cooper Standard\item Elmet Holdings\item ExxonMobil\item Federal-Mogul\item FedEx SmartPost\item Ford Motor Company\item General Motors\item GKN Sinter Metals\item Harris Corporation\item Huntington Ingalls Shipbuilding\item Hyundai America Technical Center, Inc.\item IBM\item Johns Hopkins University Applied Physics Laboratory\item Johnson Controls, Inc\item Kellogg\item KLA-Tencor\item Lean Care Solutions\item L'Oreal USA\item Meritor, Inc.\item NAVSEA Norfolk Naval Shipyard\item Navy Recruiting District Michigan\item Northrop Grumman Corporation\item PRATT \& WHITNEY\item SpaceX\item The Bartech Group\item The Boeing Company\item The Keystone Group\item The Timken Company\item Tognum America Inc.\item Urban Science\item ViaSat, Inc.\item W.W. Grainger\item Walmart\item Westinghouse Electric Company\item Zappos.com, Inc.\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf ME}\begin{compactitem}
+		\item Aernnova Engineering US, Inc.\item Air Products\item Aisin Technical Center of America\item Alcoa\item Amway\item Andersen Corporation\item Anheuser Busch InBev\item Applied Materials\item ArcelorMittal\item Autoliv ASP, Inc.\item Avery Dennison\item BAE\item Ball Aerospace \& Technologies Corp.\item Bauer Controls\item Baxter Healthcare\item Bechtel Corporation\item Bechtel Marine Propulsion Corporation\item Behr America\item Belcan Advanced Engineering and Technology\item BlackRock\item Bloomberg L.P.\item Bose Corporation\item BWI Group\item Campbell Soup\item Capgemini\item Capital One\item Chrysler Group LLC\item Clarkston Consulting\item Commonwealth Associates, Inc.\item Conestoga, Rovers \& Associates, Inc.\item Cooper Standard\item Cybernet Systems Corporation\item DCS Corp\item DePuy Orthopaedics\item Dow Corning Corporation\item Elmet Holdings\item Etherios\item ExxonMobil\item Federal-Mogul\item FedEx SmartPost\item FEV Inc\item Ford Motor Company\item General Dynamics, Bath Iron Works\item General Motors\item GKN Sinter Metals\item Granite Services International, Inc.\item Harman\item Harris Corporation\item HDR\item HDT Global\item Huntington Ingalls Shipbuilding\item Hyundai America Technical Center, Inc.\item IAV Automotive Engineering\item IBM\item Johns Hopkins University Applied Physics Laboratory\item Johnson Controls, Inc\item KLA-Tencor\item L'Oreal USA\item Los Alamos National Laboratory\item Marathon Petroleum Company LP\item Meritor, Inc.\item Muller-BBM Vibroacoustic Systeme, Inc.\item NASA Johnson Space Center Co-op Program\item NAVSEA\item NAVSEA Norfolk Naval Shipyard\item Navy Recruiting District Michigan\item Nissan North America\item Northrop Grumman Corporation\item PRATT \& WHITNEY\item Quantum Signal, LLC\item Raytheon Company\item Ricardo, Inc.\item Sandia National Laboratories\item SBM Offshore\item Severstal Dearborn LLC\item SGL Group\item Southwest Research Institute\item Space And Naval Warfare (SPAWAR) Systems Center Pacific (SSC PAC)\item SpaceX\item Tata Consultancy Services\item The Bartech Group\item The Boeing Company\item The Keystone Group\item The Timken Company\item Theranos\item Tognum America Inc.\item TransCanada Corporation\item URS Energy Construction\item US DOT Small Business Transportation Resource Center (Great Lakes Region)\item US Environmental Protection Agency\item ViaSat, Inc.\item Westinghouse Electric Company\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf MFE}\begin{compactitem}
+		\item AkzoNobel\item Alcoa\item Amway\item Andersen Corporation\item Anheuser Busch InBev\item Autoliv ASP, Inc.\item Avery Dennison\item BAE\item Ball Aerospace \& Technologies Corp.\item Baxter Healthcare\item Bechtel Marine Propulsion Corporation\item Behr America\item Bloomberg L.P.\item Bose Corporation\item BWI Group\item Campbell Soup\item Capgemini\item Chrysler Group LLC\item Clarkston Consulting\item Cooper Standard\item Elmet Holdings\item ExxonMobil\item Federal-Mogul\item FEV Inc\item Ford Motor Company\item General Motors\item GKN Sinter Metals\item Harris Corporation\item Huntington Ingalls Shipbuilding\item Hyundai America Technical Center, Inc.\item Johnson Controls, Inc\item Kellogg\item KLA-Tencor\item L'Oreal USA\item NAVSEA\item Navy Recruiting District Michigan\item PRATT \& WHITNEY\item SGL Group\item SpaceX\item The Bartech Group\item The Boeing Company\item The Keystone Group\item Theranos\item Tognum America Inc.\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf MSE}\begin{compactitem}
+		\item Aisin Technical Center of America\item Alcoa\item Amway\item Andersen Corporation\item Anheuser Busch InBev\item Applied Materials\item ArcelorMittal\item Avery Dennison\item Ball Aerospace \& Technologies Corp.\item Baxter Healthcare\item Bechtel Corporation\item Bechtel Marine Propulsion Corporation\item BlackRock\item Bloomberg L.P.\item Bostik, Inc.\item Campbell Soup\item Capgemini\item Capital One\item Cooper Standard\item DePuy Orthopaedics\item Dow Corning Corporation\item Elmet Holdings\item ExxonMobil\item Ford Motor Company\item General Motors\item GKN Sinter Metals\item Huntington Ingalls Shipbuilding\item IBM\item Integrated Device Technology\item Johns Hopkins University Applied Physics Laboratory\item KLA-Tencor\item Los Alamos National Laboratory\item Marathon Petroleum Company LP\item NASA Johnson Space Center Co-op Program\item NAVSEA\item NAVSEA Norfolk Naval Shipyard\item Navy Recruiting District Michigan\item Northrop Grumman Corporation\item PRATT \& WHITNEY\item Sandia National Laboratories\item SBM Offshore\item SpaceX\item The Boeing Company\item The Keystone Group\item The Timken Company\item Tognum America Inc.\item Westinghouse Electric Company\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf NAME}\begin{compactitem}
+		\item Anheuser Busch InBev\item Bechtel Marine Propulsion Corporation\item Capgemini\item ExxonMobil\item General Dynamics Advanced Information Systems\item General Dynamics, Bath Iron Works\item Huntington Ingalls Shipbuilding\item NAVSEA\item NAVSEA Norfolk Naval Shipyard\item Navy Recruiting District Michigan\item SBM Offshore\item The Keystone Group\item Tognum America Inc.\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf NERS}\begin{compactitem}
+		\item Anheuser Busch InBev\item Bechtel Corporation\item Bechtel Marine Propulsion Corporation\item Bloomberg L.P.\item ConocoPhillips\item Granite Services International, Inc.\item Huntington Ingalls Shipbuilding\item Los Alamos National Laboratory\item NAVSEA\item NAVSEA Norfolk Naval Shipyard\item Navy Recruiting District Michigan\item Sandia National Laboratories\item The Keystone Group\item URS Energy Construction\item Westinghouse Electric Company\end{compactitem}
+		{\fontsize{14}{16}\selectfont \bf PHARM}\begin{compactitem}
+		\item Anheuser Busch InBev\item Baxter Healthcare\item Bloomberg L.P.\item Clarkston Consulting\item Merck \& Co.\item Navy Recruiting District Michigan\item The Bartech Group\item The Keystone Group\end{compactitem}
+		\end{multicols}\end{center}
+	\end{document}

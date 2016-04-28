@@ -1,0 +1,5 @@
+﻿On behalf of SWE and TBP we would like to welcome you to the %(cf_number)s annual Fall Engineering Career Fair! At the fair this year we expect over 300 companies, and over 3000 students in attendance. As the directors of the fair, we are honored to organize an event that provides so many amazing opportunities for students in the College of Engineering. 
+SWE and TBP organize hundreds of events throughout the year including professional development seminars, Corporate Information Sessions, volunteer opportunities, and academic development. 
+For more information about SWE and TBP, feel free to visit our websites at \url{swe.engin.umich.edu} and \url{tbp.engin.umich.edu}, respectively.
+We wish you the best of luck in your job search, and forever GO BLUE!
+Sincerely, 
