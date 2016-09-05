@@ -13,8 +13,8 @@ major_data=CF_Directory.MajorData()
 spreadsheet=CF_Directory.SpreadSheetProcess()
 string_cleaner = CF_Directory.StringCleaning()
 personnel = None
-dates=['Monday September 28','Tuesday September 29']
-date_strings = ['Monday, September 28','Tuesday, September 29']
+dates=['Monday September 19','Tuesday September 20']
+date_strings = ['Monday, September 19','Tuesday, September 20']
 #Make sure all text files are saved using utf-8 encoding
 
 def get_hiring_policy(policy_string):
@@ -604,7 +604,7 @@ def make_directory(Monday,Tuesday,Monday_Majors,Tuesday_Majors,Sponsors,args):
     Directory_tex.write(r'''{\fontspec{Bookman Old Style} \fontsize{16}{19}\selectfont \bf Thank You to Our Platinum Corporate Sponsors!}
     \vspace{-.75em}\begin{center}
     ''')
-    max_height=0.35/ceil(len(args.platinumlogos)/3)
+    max_height=0.35/(ceil(len(args.platinumlogos)/3.0))
     for count in range(len(args.platinumlogos)):
         logo=args.platinumlogos[count]
         Directory_tex.write(r'''\begin{minipage}{0.45\textwidth}\begin{center}\vfill\begin{adjustbox}{max size={!}{'''+str(max_height)+r'''\textheight}}\includegraphics[width=\textwidth]{'''+logo+r'''}\end{adjustbox}\vfill\end{center}\end{minipage}
@@ -621,7 +621,7 @@ def make_directory(Monday,Tuesday,Monday_Majors,Tuesday_Majors,Sponsors,args):
     ''')
     for count in range(len(args.goldlogos)):
         logo=args.goldlogos[count]
-        max_height=0.3/ceil(len(args.goldlogos)/3)
+        max_height=0.3/ceil(len(args.goldlogos)/3.0)
         Directory_tex.write(r'''\begin{minipage}{0.3\textwidth}\begin{center}\includegraphics[max height='''+str(max_height)+r'''\textheight, max width=\textwidth]{'''+logo+r'''}\vfill\end{center}\end{minipage}
         ''')
         if count%3==2 or count == (len(args.goldlogos)-1):
@@ -715,7 +715,7 @@ def main(argv):
     parser.add_argument('--directors', dest='directors', action='store',
                         default='directors.csv', help='The csv file containing information on directors (default: directors.csv)')
     parser.add_argument('--companies', dest='companies', action='store',
-                        default='companies2014-3.csv', help='The csv file containing information on companies (default: companies.csv)')
+                        default='companies2015.csv', help='The csv file containing information on companies (default: companies.csv)')
     parser.add_argument('--output', dest='output', action='store',
                         default='Directory'+str(datetime.now().month)+'_'+str(datetime.now().day)+'.tex', help='The csv file containing information on companies (default: companies.csv)')
     parser.add_argument('--sponsorletters', dest='sponsorletters', action='store', type=lambda x: x.split(','),
@@ -745,6 +745,13 @@ def main(argv):
         print "ERROR: The list of sponsor names and the list of sponsor letters must be the same length"
         exit(1)
     #Use the provided chairs and directors files to set up information on CF staff
+
+    # Debugging
+    #print "Platinum logos"
+    #print args.platinumlogos
+    #print "length"
+    #print ceil(len(args.platinumlogos)/3.0)
+
     
     Monday = []
     Tuesday = []
