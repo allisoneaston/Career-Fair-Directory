@@ -47,10 +47,10 @@ Navigate to the directory you’ve set up and drop into the scripts directory (c
 
 ## The part where you actually run it
 Assuming the code is in its default state running the program will do 4 things.
-1.	Generate the .tex file containing all of the directory data.
-2.	Compiling said .tex file into a pdf that can be used.
-3.	Generating a .tex file for the binder covers (this one doesn’t compile by default as it’s a much simpler document)
-4.	Generates the html file containing the company “spreadsheet”
+1. Generate the .tex file containing all of the directory data.
+2. Compiling said .tex file into a pdf that can be used.
+3. Generating a .tex file for the binder covers (this one doesn’t compile by default as it’s a much simpler document)
+4. Generates the html file containing the company “spreadsheet”
 To actually run the code, type “python CF_SpreadsheetReader.py” and click enter. It will take a while as there is a bunch of data, but it should generate everything you need. The most expensive part of the operation is generating the pdf from the .tex files. When it finishes, it will copy the final version of the pdf out into the main level of the D&R directory with the name “Current_Directory.pdf”. It will leave the BinderCover.tex and the html files in-place.
 
 Here is a sample command line: 
