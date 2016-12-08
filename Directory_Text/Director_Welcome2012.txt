@@ -1,5 +1,0 @@
-﻿Participants of the %(year)d Society of Women Engineers and Tau Beta Pi Career Fair, 
-We would like to extend a warm welcome to all the corporate representatives and University of Michigan students attending the %(cf_number)s Annual SWE/TBP Career Fair. We are pleased to provide this opportunity to bring companies and students together. 
-SWE and TBP are sponsors of several events throughout the year. These events provide students with the opportunity to network with industry representatives through presentations at meetings, banquets, Corporate Information Sessions, corporate luncheons, a Professional Development Day, as well as several other college-wide events. We hope you enjoy the Career Fair and encourage you to consider these events in the future.  
-Thank you for participating in this year's Career Fair!
-Sincerely, 

@@ -89,27 +89,28 @@ class MajorData:
     Major_Cipher = {"Aerospace Engineering":"AERO",
                 "Aerospace Science":"AERO",
                 "Automotive Engineering":"AUTO",
-                'Atmospheric, Oceanic, and Space Sciences':"AOSS",
+                'Atmospheric, Oceanic, and Space Sciences':"CLaSP",
                 "Biomedical Engineering":"BME",
-                "Chemical Engineering":"CHE",
-                "Plastics Engineering":"CHE",
-                "Civil and Environmental Engineering":"CEE",
-                "Civil Engineering":"CEE",
-                "Construction Engineering and Management":'CEE',
+                "Chemical Engineering":"CHEME",
+                "Plastics Engineering":"CHEME",
+                "Civil and Environmental Engineering":"CIVIL",
+                "Civil Engineering":"CIVIL",
+                "Construction Engineering and Management":'CIVIL',
                 "Computer Engineering":"CE",
-                "Space Engineering": "CLASP",
-                "Space and Planetary Physics":"CLASP",
-                "Climate and Space Sciences and Engineering":"CLASP",
-                "Earth Systems Science and Engineering":"CLASP",
-                'Applied Climate':"CLASP",
-                "Applied Remote Sensing and Geoinformation Systems":"CLASP",
+                "Space Engineering": "CLaSP",
+                "Space and Planetary Physics":"CLaSP",
+                "Climate and Space Sciences and Engineering":"CLaSP",
+                "Earth Systems Science and Engineering":"CLaSP",
+                'Applied Climate':"CLaSP",
+                "Applied Remote Sensing and Geoinformation Systems":"CLaSP",
                 "Computer Science":"CS",
                 "Computer Science Engineering":"CS",
                 "Computer Science and Engineering":"CS",
-                "Data Science": "DS",
+                "Data Science": "CS",
                 'CS':'CS',
                 'CE':'CE',
                 "Electrical Engineering":"EE", 
+                "Electrical and Computer Engineering":"CE",
                 "Environmental Engineering":"ENV",
                 "Engineering Physics":"EP",                            
                 "Engineering Math/Physics":"EP",                            #Double check
@@ -140,6 +141,7 @@ class MajorData:
                 "Pharmaceutical Engineering":"PHARM",
                 "Robotics and Autonomous Vehicles":"ROB",
                 "Robotics":"ROB",
+                "Space Science and Engineering":"CLaSP",
                 "Systems Engineering":"EE:S",        
                 "Electrical Engineering Systems":"EE:S",  
                 "Electrical Engineering-Systems":"EE:S",
@@ -154,11 +156,12 @@ class MajorData:
                 'Applied Physics':'APhys',
                 'Entrepreneurship':"ENT",
                 'Systems Engineering and Design':'ISD',
+                'Climate and Meteorology':'CLaSP',
                 
                 
     }
     Major_Acron_Cipher = {"AERO":"Aerospace Engineering",
-                "AOSS":"Atmospheric, Oceanic, and Space Sciences",
+                "CLaSP":"Atmospheric, Oceanic, and Space Sciences",
                 "AUTO":"Automotive Engineering",
                 "BME":"Biomedical Engineering",
                 "CHEME":"Chemical Engineering",
@@ -228,7 +231,7 @@ class SpreadSheetProcess:
                "Website":-1,
                "Majors":-1,
                "Positions":-1,
-               "Degree":-1,
+               #"Degree":-1,
                "Location":-1,
                "Online-Application":-1,
                "Hiring-Policy":-1,
@@ -243,15 +246,14 @@ class SpreadSheetProcess:
                 if(to_search.find('major')>-1):
                     self.Indices['Majors']=index
                     print 'Majors: '+ str(index)
-                    
-                    
-            if(self.Indices['Degree']<0): #Should work 2013
-                if(to_search.find('degree')>-1):
-                    self.Indices['Degree']=index
-                    print 'Degree: '+ str(index)
-                    continue
+                      
+            #if(self.Indices['Degree']<0): #Should work 2013
+            #    if(to_search.find('degree')>-1):
+            #        self.Indices['Degree']=index
+            #        print 'Degree: '+ str(index)
+            #        continue
             if(self.Indices['Sponsor?']<0): #Should work 2013
-                if(to_search.find('sponsorship')>-1):
+                if(to_search.find('sponsor')>-1):
                     self.Indices['Sponsor?']=index
                     print 'Sponsor?: '+ str(index)
                     continue

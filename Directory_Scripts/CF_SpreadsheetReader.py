@@ -1,6 +1,7 @@
 import argparse
 import codecs
 import csv
+import re
 from datetime import datetime
 from math import ceil,pow,sqrt
 import os
@@ -571,7 +572,7 @@ def make_directory(Monday,Tuesday,Monday_Majors,Tuesday_Majors,Sponsors,args):
     ''')
     #Thank Sponsors
     Directory_tex.write(r'''
-    {\fontspec{Bookman Old Style} \fontsize{14}{17}\selectfont \bf Corporate Sponsors (continued on next page)}
+    {\fontspec{Bookman Old Style} \fontsize{14}{17}\selectfont \bf Corporate Sponsors}
     \vspace{-1em}\begin{multicols}{2}''')
     for company in Sponsors:
         Directory_tex.write(company+r'''\\
@@ -580,7 +581,7 @@ def make_directory(Monday,Tuesday,Monday_Majors,Tuesday_Majors,Sponsors,args):
     ''')
     
     Directory_tex.write(r'''
-    {\fontspec{Bookman Old Style} \fontsize{14}{17}\selectfont \bf Special thanks to all student volunteers who assited with the event!}''')
+    {\fontspec{Bookman Old Style} \fontsize{14}{17}\selectfont \bf Special thanks to all student volunteers who assisted with the event!}''')
     
     Directory_tex.write(r'''\newpage
     ''')
@@ -664,6 +665,17 @@ def compile_directory(company_tex):
     #TODO: Put your own path
     cmd = '/usr/texbin/xelatex -interaction=nonstopmode %(path)s'%{"path":company_tex}
 
+    
+    #-interaction=nonstopmode -no-pdf
+    #cmd = '/usr/texbin/xelatex -interaction=nonstopmode -no-pdf %(path)s'%{"path":company_tex}
+    #cmd += ';'
+    #cmd += ' /usr/texbin/xdvipdfmx -V5 ../Directory_Tex_Files/companies2015-output.tex'
+    # try this compile command: xelatex -no-pdf thefile
+    # xdvipdfmx -V5 thefile
+
+    print "cmd is"
+    print cmd
+
     if True:
         #Clean-up auxiliary files, basically make clean every time
         subprocess.call('rm *.aux', shell=True)
@@ -692,12 +704,31 @@ def compile_directory(company_tex):
             print ' '
             print p_data[0][error_start:error_start+200]
         exit()
-    #If there was no compilation error, compile a second time.
+    
+    print "FIRST COMPILATION SUCCESSFUL"
+
+    #cmd = '/usr/texbin/xdvipdfmx -V5 companies2015-output.xdv'
     p=subprocess.Popen(cmd.split(), stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     p_data=p.communicate()
+
     if p.returncode!=0:
         print p_data[1]
+        error_start=p_data[0].find('!')
+        print ''
+        print p_data[0][error_start:error_start+200]
+        print ''
+        while raw_input('Display next 200 characters? (y/n)')=='y':
+            error_start+=200
+            print ' '
+            print p_data[0][error_start:error_start+200]
         exit()
+
+    #If there was no compilation error, compile a second time.
+    #p=subprocess.Popen(cmd.split(), stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    #p_data=p.communicate()
+    #if p.returncode!=0:
+    #    print p_data[1]
+    #    exit()
     print 'XeLaTeX: Compile Successful'
     
     #Find the output file and copy it to the top level
@@ -744,15 +775,8 @@ def main(argv):
     if not (len(args.sponsornames)==len(args.sponsorletters) and len(args.sponsornames)==len(args.sponsorlogos)):
         print "ERROR: The list of sponsor names and the list of sponsor letters must be the same length"
         exit(1)
+
     #Use the provided chairs and directors files to set up information on CF staff
-
-    # Debugging
-    #print "Platinum logos"
-    #print args.platinumlogos
-    #print "length"
-    #print ceil(len(args.platinumlogos)/3.0)
-
-    
     Monday = []
     Tuesday = []
     Monday_Majors = {}
@@ -762,7 +786,7 @@ def main(argv):
     
     
 
-    #Setup input and output files and csv readers
+    #Setup input and output files and csv readers, opens the spreadsheet of all the companies
     company_spreadsheet_file=args.companies 
     company_spreadsheet=os.path.join("..","Directory_Data",company_spreadsheet_file)
     
@@ -774,18 +798,57 @@ def main(argv):
 
     #Process the provided company data.
     for row in CompanyReader:
-        major_list = string_cleaner.clean_string_latex(row[spreadsheet.get_Index('Majors')]).split(',')
-        major_acron = major_data.major_word2acron(major_list)
-        position_list = filter(None,row[spreadsheet.get_Index('Positions')].split(','))
+
+        degree_major_list = string_cleaner.clean_string_latex(row[spreadsheet.get_Index('Majors')]).split(',')
+        degree_list = []
+        for degree_major in degree_major_list:
+            if (degree_major.find("Bachelors") != -1 and not("Bachelors" in degree_list)):
+                degree_list.append("Bachelors")
+            if (degree_major.find("Masters") != -1 and not("Masters" in degree_list)):
+                degree_list.append("Masters")
+            if (degree_major.find("Doctoral") != -1 and not("PhD" in degree_list)):
+                degree_list.append("PhD")
+
+        
+
+
+        #major_list = string_cleaner.clean_string_latex(row[spreadsheet.get_Index('Majors')]).split(',') #ISSUE
+        major_acron = major_data.major_word2acron(degree_major_list)
+        #major_list = major_data.major_acron2word(major_acron)
+
+        
+        
         # degree_list = filter(None,row[spreadsheet.get_Index('Degree')].replace('PhD','Ph.D.').replace('Masters','Master\'s').replace('Bachelors','Bachelor\'s').split(':'))
-        degree_list = get_degrees(row[spreadsheet.get_Index('Degree')])
+        #degree_list = get_degrees(row[spreadsheet.get_Index('Degree')]) #ISSUE
+        
+        position_list = filter(None,row[spreadsheet.get_Index('Positions')].split(','))
         location_list = filter(None,row[spreadsheet.get_Index('Location')].split(','))
+
+        building_long_name = row[spreadsheet.get_Index('Building')]
+        building = re.findall('\-(.*?)-', building_long_name)
+        building = building[0]
+        if building == 'EE':
+            building = 'EECS'
+        if building == 'CH':
+            building = 'CHRY'
+        if building == 'CC':
+            building = 'CCA'
+        if building == 'GA':
+            building = 'GAL'
+        if building == 'P':
+            building = 'PC'
+        if building == 'DC':
+            building = 'DUDE'
+        if building == 'CO':
+            building = 'DCON'
+
+        # Put together company info
         Generic_Company = {"NAME":string_cleaner.clean_string_latex(row[spreadsheet.get_Index('Name')]),
                            "WEB_NAME":row[spreadsheet.get_Index('Name')],
                            "WEB_PROFILE":row[spreadsheet.get_Index('Profile')],
                            "WEBSITE":row[spreadsheet.get_Index('Website')],
-                           "MAJORS":major_list,
-                           "MAJOR_ACRON":major_acron,
+                           #"MAJORS":degree_major_list,
+                           "MAJOR_ACRON":sorted(major_acron),
                            "POSITIONS":position_list,
                            "DEGREES":degree_list,
                            "LOCATION":location_list,
@@ -794,15 +857,15 @@ def main(argv):
                            "ATTENDANCE-DATE":get_date(row[spreadsheet.get_Index('Attendance-Date')]),
                            "RECEPTIONS":string_cleaner.YesNo2Bool(row[spreadsheet.get_Index('Receptions')]),
                            "PROFILE":string_cleaner.clean_string_latex(row[spreadsheet.get_Index('Profile')]),
-                           "BUILDING":row[spreadsheet.get_Index('Building')].replace('&','\&')}
+                           "BUILDING":building}
         #Checks if the company is a sponsor or not, 
         #since this is determined by having any entry in the sponsor column
         # (usually an x), it just checks for existence of
         #any data and also catches the exception if the row is shorter than expected
         try:
             sponsorship = row[spreadsheet.get_Index('Sponsor?')]
-            print row[spreadsheet.get_Index('Sponsor?')]
-            if(sponsorship in ['Gold','Diamond','Platinum']):
+
+            if(sponsorship in ['Gold','Diamond','Platinum', 'Gold - This level is full, no longer being accepted', 'Diamond - This level is full, no longer being accepted', 'Platinum - This level is full, no longer being accepted']):
                 Generic_Company["SPONSOR"]=True
                 Sponsors.append(Generic_Company["NAME"])
             else:
@@ -812,14 +875,18 @@ def main(argv):
             
         #Splits the companies by Monday or Tuesday
         #Also populates the companies-by-major containers
-        if(Generic_Company['ATTENDANCE-DATE'].lower().find('mon')>-1):
+        if(Generic_Company['ATTENDANCE-DATE'].lower().find('1')>-1): #Monday
+            
+            # If 'Any' is listed as an option, changes it to include all majors
             company_majors = Generic_Company["MAJOR_ACRON"]
             if 'Any' in company_majors:
                 
-                all_majors = set(major_data.Major_Cipher.values())
-                all_majors.remove('Any')
-                company_majors = list(all_majors)
-                Generic_Company["MAJOR_ACRON"]=company_majors
+               all_majors = set(major_data.Major_Cipher.values())
+               all_majors.remove('Any')
+               company_majors = list(all_majors)
+               Generic_Company["MAJOR_ACRON"]=sorted(company_majors)
+
+            # populates the companies-by-major containers
             for major in company_majors:
                 if major in Monday_Majors.keys():
                     Monday_Majors[major].append(Generic_Company["NAME"])
@@ -827,12 +894,15 @@ def main(argv):
                     Monday_Majors[major]=[Generic_Company["NAME"]]
             Monday.append(Generic_Company)
         else:
+
+            # If 'Any' is listed as an option, changes it to include all majors
             company_majors = Generic_Company["MAJOR_ACRON"]
             if 'Any' in company_majors:
                 all_majors = set(major_data.Major_Cipher.values())
                 all_majors.remove('Any')
                 company_majors = list(all_majors)
-                Generic_Company["MAJOR_ACRON"]=company_majors
+                Generic_Company["MAJOR_ACRON"]=sorted(company_majors)
+            # populates the companies-by-major containers
             for major in company_majors:
                 if major in Tuesday_Majors.keys():
                     Tuesday_Majors[major].append(Generic_Company["NAME"])

@@ -14,80 +14,85 @@
 
     \begin{multicols}{2}
     \begin{minipage}{\columnwidth}
-            \includegraphics[height=0.6in, width=2in,keepaspectratio]{BC}\\
-            Becca Cohn\\
-            SWE Career Fair Director\\
-            \end{minipage}
-\begin{minipage}{\columnwidth}
-            \includegraphics[height=0.6in, width=2in,keepaspectratio]{JDM}\\
-            Jon McCormick\\
+            \includegraphics[height=0.6in, width=2in,keepaspectratio]{Signature.pdf}\\
+            Alexa Cichon\\
             TBP Career Fair Director\\
             \end{minipage}
 \begin{minipage}{\columnwidth}
-            \includegraphics[height=0.6in, width=2in,keepaspectratio]{LS}\\
-            Lance Schmidt\\
-            TBP Career Fair Director\\
+            \includegraphics[height=0.6in, width=2in,keepaspectratio]{Signature}\\
+            Eve Gendron\\
+            SWE Career Fair Director\\
             \end{minipage}
 \begin{minipage}{\columnwidth}
-            \includegraphics[height=0.6in, width=2in,keepaspectratio]{MW}\\
-            Meredith Wood\\
+            \includegraphics[height=0.6in, width=2in,keepaspectratio]{Signature}\\
+            Christine Joseph\\
             SWE Career Fair Director\\
+            \end{minipage}
+\begin{minipage}{\columnwidth}
+            \includegraphics[height=0.6in, width=2in,keepaspectratio]{Signature}\\
+            Phillip Yang\\
+            TBP Career Fair Director\\
             \end{minipage}
 \end{multicols}\begin{multicols}{2}
     \begin{minipage}{\columnwidth}
     {\bf Directory and Registration}\\
-    Ariana Mirian\\
-     Natalie Setterberg\\
-    Monica Walker\\
+    Olena Huang\\
+    Akanksha Singh\\
+    Stacey Valentine\\
     
 \end{minipage}
     \begin{minipage}{\columnwidth}
     {\bf Hospitality}\\
-    Megan Darby\\
-    Tyler DeVries\\
-    Michelle Kleinau\\
+    Ellie Arand\\
+    Andrea Fungueirino\\
+    Courtney Wright\\
     
 \end{minipage}
     \begin{minipage}{\columnwidth}
     {\bf Operations}\\
-    Katherine Chen\\
-    Tae-Hyung Kang\\
-    Chandruganesh Rasendran\\
-    Alyssa Woo\\
+    Caitlyn Hines\\
+    Ilkka Kovanen\\
+    Jeeho Lee\\
+    Swetha Reddit\\
     
 \end{minipage}
     \begin{minipage}{\columnwidth}
     {\bf Publicity}\\
-    Lauren Bilbo\\
-    Julia Javier\\
-    Matthew Riley\\
+    Morgan Chencinski\\
+    Pragya Sinha\\
+    Amanda Sugai\\
     
 \end{minipage}
     \begin{minipage}{\columnwidth}
     {\bf Receptions}\\
-    Sarah Bonhard\\
-    Julia Habif\\
-    Jelena Rosenberg\\
+    Lauren Bilbo\\
+    Devyani Kalvit\\
+    Morgan Maxson\\
+    Carrianna Voellm\\
     
 \end{minipage}
     \begin{minipage}{\columnwidth}
     {\bf Volunteer Coordinators}\\
-    Laine Chan\\
-    Christine Joseph\\
-    Anna Moon\\
+    Jennifer Bourlier\\
+    Joanna Ciatti\\
+    Julia Kerst\\
     
 \end{minipage}
     \begin{minipage}{\columnwidth}
     {\bf Webmaster}\\
+    Laine Chan\\
+    Zane Chen\\
+    Indu Ghandikota\\
+    Rowena Ng\\
     Kate Panter\\
     
 \end{minipage}
-    \end{multicols}\newpage{\fontspec{Bookman Old Style} \fontsize{20}{24}\selectfont \bf Message from Corporate Sponsor\\Fidessa}\\~\\{\fontsize{12.000000}{12.000000}\selectfont Hey UMich Engineering students: \\[-0.250000ex]~ \\[-0.250000ex]~ We are Fidessa, an innovative tech company with a passion for delivering high performance solutions to the finance industry. We're looking for driven, passionate, and diverse engineering students like you to help us make an impact and create cutting edge applications used across the world. We know that the University of Michigan Engineering students are just that and that's why Fidessa is a proud sponsor of the 2015 SWE/TBP Engineering Career Fair!\\[-0.250000ex]~ \\[-0.250000ex]~ We are a dynamic global company with over 15 offices worldwide. With continued commitment from our employees and customers, we offer unique access to the largest and most valuable trading community, from global institutions and investment banks to boutique brokers and niche hedge funds. Our advanced products and services cover the whole trading lifecycle, from low latency trading tools to settlement, compliance and risk management.\\[-0.250000ex]~ \\[-0.250000ex]~ We are freethinking and do not believe in rigid structure or tight controls where these limit our ability to be innovative and adaptable. We recognize that a business is only as good as its people. To provide and build on our high-quality platform and services, we seek to employ only the best!\\[-0.250000ex]~ \\[-0.250000ex]~ Do you think you have what it takes? If so, stop by the Fidessa booth at the Engineering Career Fair to speak with a Fidessa representative and take our Coding challenge. \\[-0.250000ex]~ \\[-0.250000ex]~ We look forward to seeing you there! \\[-0.250000ex]~ \\[-0.250000ex]~ Learn more about Fidessa at \url{www.fidessa.com/careers} \\[-0.250000ex]~ \\[-0.250000ex]~ Sincerely, \\[-0.250000ex]~ \\[-0.250000ex]~ Fidessa Recruitment Team \\[-0.250000ex]~}\begin{center}\begin{adjustbox}{max size={.5\textwidth}{2in}}\includegraphics[height=2in]{Fidessa_LOGO.eps}\end{adjustbox}\end{center}\newpage{\fontspec{Bookman Old Style} \fontsize{20}{24}\selectfont \bf Message from Corporate Sponsor\\BP}\\~\\{\fontsize{12.000000}{12.000000}\selectfont Dear University of Michigan Engineering Students:\\[-0.250000ex]~ \\[-0.250000ex]~ On behalf of our partnership with the Society of Women Engineers and Tau Beta Pi, BP America is pleased to welcome you to the 2015 SWE/TBP Engineering Career Fair! \\[-0.250000ex]~ \\[-0.250000ex]~ FULL-TIME, INTERNSHIP \& CO-OP OPPORTUNITIES FOR ENGINEERING RELATED MAJORS\\[-0.250000ex]~ \\[-0.250000ex]~ Here at BP, you will have opportunities to develop in many areas. From becoming a world-class engineering specialist to pursuing a career in project management or operations; you will experience a journey of consistent growth and development. Full-time hires at BP will be a part of the Challenge program. This is a program that provides experience of the complete exploration process through a series of 18-24 month placements. You’ll discover the complex, interrelated nature of energy as you work on real projects with real applications and real responsibilities. Everyone will go through a thorough training and development program where you’ll have a structured induction, access to a buddy and mentor, training, managed job rotations, site/field exposure, networking and planned development. With each role, there is a distinct training program.\\[-0.250000ex]~ \\[-0.250000ex]~ At BP, we are equally committed to our internship programs. As an intern or co-op you’ll work on real projects that deliver tangible benefits and measurable results. At the same time, you’ll have the opportunity to learn about and help to solve some of the most important issues we face. You will experience genuine teamwork, and work alongside highly qualified and experienced colleagues, while you work on live projects and operations, using the latest equipment and technology.\\[-0.250000ex]~ \\[-0.250000ex]~ Depending on your major and area of interest for your career, individuals with engineering related majors may have the opportunity to work within one or more of the following segments in BP: Upstream, Downstream, and Alternative Energy.\\[-0.250000ex]~ \\[-0.250000ex]~ BP recruits majors for the following disciplines: Engineering, Science and Business. Candidates with a minimum 3.2 GPA pursuing bachelor’s, master’s and PhD degrees are encouraged to apply for roles of their interest. All applicants are required to apply online at \url{www.bp.com/uscampus} for interview consideration. \\[-0.250000ex]~ \\[-0.250000ex]~ We at BP stand for SAFETY, EXCELLENCE, RESPECT, COURAGE and ONE TEAM. Stop our booth our booth today to learn of more of the exciting opportunities that await you at BP. Join us! \\[-0.250000ex]~ \\[-0.250000ex]~ Sincerely,\\[-0.250000ex]~ The University of Michigan Recruiting Team\\[-0.250000ex]~}\begin{center}\begin{adjustbox}{max size={.5\textwidth}{2in}}\includegraphics[height=2in]{BP_LOGO.jpg}\end{adjustbox}\end{center}\newpage{\fontspec{Bookman Old Style} \fontsize{20}{24}\selectfont \bf Message from Corporate Sponsor\\UP}\\~\\{\fontsize{12.000000}{12.000000}\selectfont Lorem ipsum\\[-0.250000ex]~}\begin{center}\begin{adjustbox}{max size={.5\textwidth}{2in}}\includegraphics[height=2in]{UP_LOGO.jpg}\end{adjustbox}\end{center}\newpage\input{../Directory_Tex_Files/MapAndShit.tex}\startcompanysection
+    \end{multicols}\newpage{\fontspec{Bookman Old Style} \fontsize{20}{24}\selectfont \bf Message from Corporate Sponsor\\Fidessa}\\~\\{\fontsize{12.000000}{12.000000}\selectfont Hey UMich Engineering students: \\[-0.250000ex]~ \\[-0.250000ex]~ We are Fidessa, an innovative tech company with a passion for delivering high performance solutions to the finance industry. We're looking for driven, passionate, and diverse engineering students like you to help us make an impact and create cutting edge applications used across the world. We know that the University of Michigan Engineering students are just that and that's why Fidessa is a proud sponsor of the 2015 SWE/TBP Engineering Career Fair!\\[-0.250000ex]~ \\[-0.250000ex]~ We are a dynamic global company with over 15 offices worldwide. With continued commitment from our employees and customers, we offer unique access to the largest and most valuable trading community, from global institutions and investment banks to boutique brokers and niche hedge funds. Our advanced products and services cover the whole trading lifecycle, from low latency trading tools to settlement, compliance and risk management.\\[-0.250000ex]~ \\[-0.250000ex]~ We are freethinking and do not believe in rigid structure or tight controls where these limit our ability to be innovative and adaptable. We recognize that a business is only as good as its people. To provide and build on our high-quality platform and services, we seek to employ only the best!\\[-0.250000ex]~ \\[-0.250000ex]~ Do you think you have what it takes? If so, stop by the Fidessa booth at the Engineering Career Fair to speak with a Fidessa representative and take our Coding challenge. \\[-0.250000ex]~ \\[-0.250000ex]~ We look forward to seeing you there! \\[-0.250000ex]~ \\[-0.250000ex]~ Learn more about Fidessa at \url{www.fidessa.com/careers} \\[-0.250000ex]~ \\[-0.250000ex]~ Sincerely, \\[-0.250000ex]~ \\[-0.250000ex]~ Fidessa Recruitment Team \\[-0.250000ex]~}\begin{center}\begin{adjustbox}{max size={.5\textwidth}{2in}}\includegraphics[height=2in]{gold11.pdf}\end{adjustbox}\end{center}\newpage\input{../Directory_Tex_Files/MapAndShit.tex}\startcompanysection
     \fancyhead[C]{ {\fontspec{Bookman Old Style} \fontsize{40}{48}\selectfont \bf\color{white}Career Fair 2016}\\[12pt]
-    {\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Monday, September 28}\\
+    {\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Monday, September 19}\\
     }
     \startsponsorsection\fancyhead[C]{ {\fontspec{Bookman Old Style} \fontsize{40}{48}\selectfont \bf\color{white}Career Fair 2016}\\[12pt]
-    {\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Monday, September 28}\\
+    {\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Monday, September 19}\\
     \begin{tikzpicture}[remember picture,overlay]
     \node[yshift=-\headheight-10pt] at (current page.north)
     {\fontsize{16}{18}\selectfont \bf Sponsors};
@@ -257,7 +262,7 @@
  \end{multicols}\end{center}
     \startcompanysection
     \fancyhead[C]{ {\fontspec{Bookman Old Style} \fontsize{40}{48}\selectfont \bf\color{white}Career Fair 2016}\\[12pt]
-    {\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Monday, September 28}\\
+    {\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Monday, September 19}\\
     }
     \begin{center}\begin{multicols}{3}
     \begin{FlushLeft}
@@ -2102,7 +2107,7 @@
     \end{multicols}\end{center}
     \newpage\newgeometry{left=0pt,right=15pt,bottom=8pt,includehead,headheight=1.6in,top=0in,twoside=false}
     \fancyhead[C]{ {\fontspec{Bookman Old Style} \fontsize{40}{48}\selectfont \bf\color{white}Career Fair 2016}\\[12pt]
-    {\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Monday, September 28}\\
+    {\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Monday, September 19}\\
     \begin{tikzpicture}[remember picture,overlay]
     \node[yshift=-\headheight-10pt] at (current page.north)
     {\fontsize{16}{18}\selectfont \bf Companies by Major};
@@ -4335,10 +4340,10 @@
     \newpage
     \startcompanysection
     \fancyhead[C]{ {\fontspec{Bookman Old Style} \fontsize{40}{48}\selectfont \bf\color{white}Career Fair 2016}\\[12pt]
-    {\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Monday, September 28}\\
+    {\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Monday, September 19}\\
     }
     \startsponsorsection\fancyhead[C]{ {\fontspec{Bookman Old Style} \fontsize{40}{48}\selectfont \bf\color{white}Career Fair 2016}\\[12pt]
-    {\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Tuesday, September 29}\\
+    {\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Tuesday, September 20}\\
     \begin{tikzpicture}[remember picture,overlay]
     \node[yshift=-\headheight-10pt] at (current page.north)
     {\fontsize{16}{18}\selectfont \bf Sponsors};
@@ -4428,10 +4433,10 @@
  \end{multicols}\end{center}
     \startcompanysection
     \fancyhead[C]{ {\fontspec{Bookman Old Style} \fontsize{40}{48}\selectfont \bf\color{white}Career Fair 2016}\\[12pt]
-    {\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Monday, September 28}\\
+    {\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Monday, September 19}\\
     }
     \fancyhead[C]{ {\fontspec{Bookman Old Style} \fontsize{40}{48}\selectfont \bf\color{white}Career Fair 2016}\\[12pt]
-    {\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Tuesday, September 29}\\
+    {\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Tuesday, September 20}\\
     }
     \begin{center}\begin{multicols}{3}
     \begin{FlushLeft}
@@ -6375,7 +6380,7 @@
     \end{multicols}\end{center}
     \newpage\newgeometry{left=0pt,right=15pt,bottom=8pt,includehead,headheight=1.6in,top=0in,twoside=false}
     \fancyhead[C]{ {\fontspec{Bookman Old Style} \fontsize{40}{48}\selectfont \bf\color{white}Career Fair 2016}\\[12pt]
-    {\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Tuesday, September 29}\\
+    {\fontspec{Monotype Corsiva}\fontsize{36}{41}\selectfont \color{white}\em Tuesday, September 20}\\
     \begin{tikzpicture}[remember picture,overlay]
     \node[yshift=-\headheight-10pt] at (current page.north)
     {\fontsize{16}{18}\selectfont \bf Companies by Major};
@@ -9169,9 +9174,9 @@
     successful event:\\
     
     {\fontspec{Bookman Old Style} \fontsize{14}{17}\selectfont \bf College of Engineering Administration and Staff}\\\begin{tabular}{p{2in}l}
-    David C. Munson	&	 Jr. Robert J. Vlasic Dean of Engineering\\
-        Brian D. Noble	&	 Associate Dean for Undergraduate Education\\
-        Alec D. Gallimore	&	 Associate Dean for Academic Affairs\\
+    Brian D. Noble	&	 Associate Dean for Undergraduate Education\\
+        Michael Wellman	&	Associate Dean for Academic Affairs\\
+        Alec D. Gallimore	&	Robert J. Vlasic Dean of Engineering\\
         Dawn M. Tilbury	&	 Associate Dean for Research\\
         Jennifer J. Linderman	&	 Associate Dean for Graduate Education \\
         Thomas H. Zurbuchen	&	 Associate Dean for Entrepreneurial Programs\\
@@ -9183,8 +9188,8 @@
     {\fontspec{Bookman Old Style} \fontsize{14}{17}\selectfont \bf College of Engineering Career Resource Center}\\\begin{tabular}{p{2in}l}
     Kerri Boivin	&	 Director\\
         Tara Coffell	&	 Assistant Director\\
-        Janice Laughlin	&	 Senior Administrative Assistant\\
-        Kylee Clemens	&	 Student Administrative Assistant\\
+        Janice Laughlin	&	Co-op Program/Events Coordinator\\
+        Kylee Clemens	&	 Sr. Student Admin Assistant\\
         \end{tabular}\\[1em]
     
     {\fontspec{Bookman Old Style} \fontsize{14}{17}\selectfont \bf Facilities Coordination}\\\begin{tabular}{p{2in}l}
@@ -9203,7 +9208,7 @@
         Michael Swanigan	&	 Pierpont Commons\\
         Ilene Sullivan-Ulrich	&	 Facilities and Operations\\
         Ann Zalucki	&	 Facilities and Operations\\
-        Merlis Nolan	&	 G. G. Brown Facilities Coordination\\
+        Merlis Nolan	&	 G. G. Brown\\
         \end{tabular}\\[1em]
     
     {\fontspec{Bookman Old Style} \fontsize{14}{17}\selectfont \bf Corporate Sponsors (continued on next page)}
@@ -9243,51 +9248,17 @@
     \notepages
     {\fontspec{Bookman Old Style} \fontsize{16}{19}\selectfont \bf Thank You to Our Diamond Corporate Sponsors!}\\
     \begin{center}\vspace{-1.3em}
-    \begin{adjustbox}{max size={0.65\textwidth}{!}}\includegraphics[height=0.128571428571\textheight]{diamond1.jpg}\end{adjustbox}\vspace{1em}\\
-        \begin{adjustbox}{max size={0.65\textwidth}{!}}\includegraphics[height=0.128571428571\textheight]{diamond2.jpg}\end{adjustbox}\vspace{1em}\\
-        \begin{adjustbox}{max size={0.65\textwidth}{!}}\includegraphics[height=0.128571428571\textheight]{diamond3.eps}\end{adjustbox}\vspace{1em}\\
-        \begin{adjustbox}{max size={0.65\textwidth}{!}}\includegraphics[height=0.128571428571\textheight]{diamond4.eps}\end{adjustbox}\vspace{1em}\\
-        \begin{adjustbox}{max size={0.65\textwidth}{!}}\includegraphics[height=0.128571428571\textheight]{diamond5.eps}\end{adjustbox}\vspace{1em}\\
-        \begin{adjustbox}{max size={0.65\textwidth}{!}}\includegraphics[height=0.128571428571\textheight]{diamond6.jpg}\end{adjustbox}\vspace{1em}\\
-        \begin{adjustbox}{max size={0.65\textwidth}{!}}\includegraphics[height=0.128571428571\textheight]{diamond7.eps}\end{adjustbox}\vspace{1em}\\
+    \begin{adjustbox}{max size={0.65\textwidth}{!}}\includegraphics[height=0.9\textheight]{gold11.pdf}\end{adjustbox}\vspace{1em}\\
         \end{center}
     \newpage
     {\fontspec{Bookman Old Style} \fontsize{16}{19}\selectfont \bf Thank You to Our Platinum Corporate Sponsors!}
     \vspace{-.75em}\begin{center}
-    \begin{minipage}{0.45\textwidth}\begin{center}\vfill\begin{adjustbox}{max size={!}{0.116666666667\textheight}}\includegraphics[width=\textwidth]{platinum1.eps}\end{adjustbox}\vfill\end{center}\end{minipage}
-        \hspace{2em}\begin{minipage}{0.45\textwidth}\begin{center}\vfill\begin{adjustbox}{max size={!}{0.116666666667\textheight}}\includegraphics[width=\textwidth]{platinum2.png}\end{adjustbox}\vfill\end{center}\end{minipage}
-        \\
-            \begin{minipage}{0.45\textwidth}\begin{center}\vfill\begin{adjustbox}{max size={!}{0.116666666667\textheight}}\includegraphics[width=\textwidth]{platinum3.pdf}\end{adjustbox}\vfill\end{center}\end{minipage}
-        \hspace{2em}\begin{minipage}{0.45\textwidth}\begin{center}\vfill\begin{adjustbox}{max size={!}{0.116666666667\textheight}}\includegraphics[width=\textwidth]{platinum4.ps}\end{adjustbox}\vfill\end{center}\end{minipage}
-        \\
-            \begin{minipage}{0.45\textwidth}\begin{center}\vfill\begin{adjustbox}{max size={!}{0.116666666667\textheight}}\includegraphics[width=\textwidth]{platinum5.png}\end{adjustbox}\vfill\end{center}\end{minipage}
-        \hspace{2em}\begin{minipage}{0.45\textwidth}\begin{center}\vfill\begin{adjustbox}{max size={!}{0.116666666667\textheight}}\includegraphics[width=\textwidth]{platinum6.ps}\end{adjustbox}\vfill\end{center}\end{minipage}
-        \\
-            \begin{minipage}{0.45\textwidth}\begin{center}\vfill\begin{adjustbox}{max size={!}{0.116666666667\textheight}}\includegraphics[width=\textwidth]{platinum7.jpg}\end{adjustbox}\vfill\end{center}\end{minipage}
-        \hspace{2em}\begin{minipage}{0.45\textwidth}\begin{center}\vfill\begin{adjustbox}{max size={!}{0.116666666667\textheight}}\includegraphics[width=\textwidth]{platinum8.eps}\end{adjustbox}\vfill\end{center}\end{minipage}
-        \\
-            \begin{minipage}{0.45\textwidth}\begin{center}\vfill\begin{adjustbox}{max size={!}{0.116666666667\textheight}}\includegraphics[width=\textwidth]{platinum9.jpg}\end{adjustbox}\vfill\end{center}\end{minipage}
+    \begin{minipage}{0.45\textwidth}\begin{center}\vfill\begin{adjustbox}{max size={!}{0.35\textheight}}\includegraphics[width=\textwidth]{gold11.pdf}\end{adjustbox}\vfill\end{center}\end{minipage}
         \\
             \end{center}
     {\fontspec{Bookman Old Style} \fontsize{16}{19}\selectfont \bf Thank You to Our Gold Corporate Sponsors!}
     \vspace{0em}\begin{center}
-    \begin{minipage}{0.3\textwidth}\begin{center}\includegraphics[max height=0.075\textheight, max width=\textwidth]{gold1.eps}\vfill\end{center}\end{minipage}
-        \hspace{1em}\begin{minipage}{0.3\textwidth}\begin{center}\includegraphics[max height=0.075\textheight, max width=\textwidth]{gold2.eps}\vfill\end{center}\end{minipage}
-        \hspace{1em}\begin{minipage}{0.3\textwidth}\begin{center}\includegraphics[max height=0.075\textheight, max width=\textwidth]{gold3.jpg}\vfill\end{center}\end{minipage}
-        \\
-            \begin{minipage}{0.3\textwidth}\begin{center}\includegraphics[max height=0.075\textheight, max width=\textwidth]{gold4.eps}\vfill\end{center}\end{minipage}
-        \hspace{1em}\begin{minipage}{0.3\textwidth}\begin{center}\includegraphics[max height=0.075\textheight, max width=\textwidth]{gold5.jpg}\vfill\end{center}\end{minipage}
-        \hspace{1em}\begin{minipage}{0.3\textwidth}\begin{center}\includegraphics[max height=0.075\textheight, max width=\textwidth]{gold6.jpg}\vfill\end{center}\end{minipage}
-        \\
-            \begin{minipage}{0.3\textwidth}\begin{center}\includegraphics[max height=0.075\textheight, max width=\textwidth]{gold7.jpg}\vfill\end{center}\end{minipage}
-        \hspace{1em}\begin{minipage}{0.3\textwidth}\begin{center}\includegraphics[max height=0.075\textheight, max width=\textwidth]{gold8.eps}\vfill\end{center}\end{minipage}
-        \hspace{1em}\begin{minipage}{0.3\textwidth}\begin{center}\includegraphics[max height=0.075\textheight, max width=\textwidth]{gold9.eps}\vfill\end{center}\end{minipage}
-        \\
-            \begin{minipage}{0.3\textwidth}\begin{center}\includegraphics[max height=0.075\textheight, max width=\textwidth]{gold10.eps}\vfill\end{center}\end{minipage}
-        \hspace{1em}\begin{minipage}{0.3\textwidth}\begin{center}\includegraphics[max height=0.075\textheight, max width=\textwidth]{gold11.pdf}\vfill\end{center}\end{minipage}
-        \hspace{1em}\begin{minipage}{0.3\textwidth}\begin{center}\includegraphics[max height=0.075\textheight, max width=\textwidth]{gold12.eps}\vfill\end{center}\end{minipage}
-        \\
-            \begin{minipage}{0.3\textwidth}\begin{center}\includegraphics[max height=0.075\textheight, max width=\textwidth]{gold13.eps}\vfill\end{center}\end{minipage}
+    \begin{minipage}{0.3\textwidth}\begin{center}\includegraphics[max height=0.3\textheight, max width=\textwidth]{gold11.pdf}\vfill\end{center}\end{minipage}
         \\
             \end{center}
     \newpage
@@ -9295,9 +9266,7 @@
     {\fontspec{Bookman Old Style} \fontsize{16}{19}\selectfont \bf Thank You to Our Directory Sponsors!}\\
     \begin{center}
     \vfill
-    \includegraphics[height=0.2\textheight,max width=.85\textwidth]{Fidessa_LOGO.eps}\\[3em]
-        \includegraphics[height=0.2\textheight,max width=.85\textwidth]{BP_LOGO.jpg}\\[3em]
-        \includegraphics[height=0.2\textheight,max width=.85\textwidth]{UP_LOGO.jpg}\\[3em]
+    \includegraphics[height=0.4\textheight,max width=.85\textwidth]{gold11.pdf}\\[3em]
         \vfill
     \includegraphics[width=.25\textwidth]{SWE_GEAR}\hspace{3em}
     \includegraphics[width=.25\textwidth]{StackedBlockMwrapped}\hspace{3em}
