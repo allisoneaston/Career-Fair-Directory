@@ -72,3 +72,13 @@ Here is a sample command line:
 
 That’s it. Assuming there were no issues, you have a fully functional directory. If things look amiss, the Appendices have some information on how to modify the code (both Python and LaTeX) to address issues that may arise. Good Luck!
 
+## Appendix A: Modifying the Code
+Sometimes there are some problems that arise that it is necessary, or just easier to go and tweak the code to get the behavior you want. The first case is when you modify the code to actually generate the documents. The second is to modify the output to address things that really cannot be handled programmatically and need to be manually tweaked to produce a sane looking document.
+
+### Appendix A.1 Modifying Python
+The first main reason to modify the Python code is that you want to change what the default values are for file names, sponsor names, etc. and you’d prefer not to have to do this every time you run the program. If you’re comfortable with Python (it’s actually not that difficult, and totally worth learning) open up the program “CF_SpreadsheetReader.py” and scroll to near the bottom (around line 670). Inside the main function you’ll find the runtime argument/option definitions and will note the default values specified as well. Change these to whatever you need them to be and you won’t have to specify them at run time.
+
+The other main reason for modifying the Python code is if, say, the directory is stable but you want to keep updating the webpage or the binder covers. In this case you can comment out (#) the lines that result in the compilation of the directory (around line 790 you’ll find 4 lines that do sequentially the 4 things noted in the section on running the tool).
+
+### Appendix A.2 Modifying LaTeX
+This is a bit trickier, and should only be done once you’re reasonably certain that the underlying data is stable. The reason is that anything you change manually in the LaTeX code (apart from the parts in the static files noted previously) will be blown away the next time you run the program. The only things that should really be handled here are matters of scaling and spacing that didn’t work well when it ran. If you’re not familiar with LaTeX and how to fix scaling or spacing, it’s a bit beyond the scope here, but almost any grad student could help you out. That failing, google “how to resize images in latex” or “how to add (remove) vertical space in latex”. Stackoverflow is a wonderful resource.
