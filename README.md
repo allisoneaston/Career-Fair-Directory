@@ -52,5 +52,18 @@ Assuming the code is in its default state running the program will do 4 things.
 3.	Generating a .tex file for the binder covers (this one doesn’t compile by default as it’s a much simpler document)
 4.	Generates the html file containing the company “spreadsheet”
 To actually run the code, type “python CF_SpreadsheetReader.py” and click enter. It will take a while as there is a bunch of data, but it should generate everything you need. The most expensive part of the operation is generating the pdf from the .tex files. When it finishes, it will copy the final version of the pdf out into the main level of the D&R directory with the name “Current_Directory.pdf”. It will leave the BinderCover.tex and the html files in-place.
+
+Here is a sample command line: 
+"python CF_SpreadsheetReader.py 
+--companies companies2015.csv 
+--output companies2015-output.csv 
+--sponsorletters SponsorLetter2015-1.txt,SponsorLetter2015-2.txt,SponsorLetter2015-3.txt 
+--sponsornames Fidessa BP UP 
+--sponsorlogos Fidessa_LOGO.eps BP_LOGO.jpg UP_LOGO.jpg 
+--directorletter Director_Welcome2015.txt 
+--diamondlogos diamond1.jpg diamond2.jpg diamond3.eps diamond4.eps diamond5.eps diamond6.jpg diamond7.eps 
+--goldlogos gold1.eps gold2.eps gold3.jpg gold4.eps gold5.jpg gold6.jpg gold7.jpg gold8.eps gold9.eps gold10.eps gold11.pdf gold12.eps gold13.eps 
+--platinumlogos platinum1.eps"
+
 That’s it. Assuming there were no issues, you have a fully functional directory. If things look amiss, the Appendices have some information on how to modify the code (both Python and LaTeX) to address issues that may arise. Good Luck!
 
