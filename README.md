@@ -1,4 +1,5 @@
 # Career-Fair-Directory
+The file called Tool_guide.docx contains these same instructions, along with images.
 
 ## Preface
 The Directory has long been a staple of the Career Fair. Samples exist back to the mid-90s—showing the development of the Directory since that time. As the number of companies has grown, the challenge of presenting the data to attendees in a usable, coherent manner has created a heavy burden on chairs and has led to problematic transcription errors, stemming from a variety of causes. In 2013 it was set about to create a simple tool that would take the registration data and assemble it into a usable directory, with minimal human intervention needed. To build on that the tool was expanded to further create the binder covers and a html table of company data. What follows is a user guide, with minimal technical guide interleaved. This should obviously be a living document that adapts to the growth of the tool over the years.
