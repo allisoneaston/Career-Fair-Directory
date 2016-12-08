@@ -11,17 +11,19 @@ The Directory has long been a staple of the Career Fair. Samples exist back to t
 ## Setting up the Directory
 For better or worse, the script is somewhat naïve and expects that the working directory be configured in a particular manner. Note in particular that any directory accessed by the script has no whitespace in the name.
 
-## Necessary files
+### Necessary files
 A lot of data goes into the directory, and not all of that is ready until quite late in the process. As such, it is recommended to continue using the each piece of information, data, image, etc. from the year prior until it is replaced. There’s no need to hold off on checking things until the last sponsor letter is ready—just use the ones from last year.
 
-## Directory Data Folder
+### Directory Data Folder
 Contains spreadsheets of data (csv formatted). Excel format will not work, csv is the simple, unmarked up way of handling spreadsheet data.
-1. administration.csv: This file contains the names and titles of those in the college administration being thanked.
-2. chairs.csv: This file contains the names and committees of each chair on Career Fair. Note the formatting as it is slightly non-standard.
-3. companiesYYYY.csv: This file contains the company registration data from which basically everything is assembled. The program is somewhat robust to formatting here, as it checks the header row to locate what information is where. It’s still a program however, and if it doesn’t know that the company name is abbreviated “comp_nm” (why would it?) it won’t find that information, so don’t change up the header labels if it can be avoided; and if you have to, make it sensible.
-4. directors.csv: Contains the names, society affiliation and signature file (no extension) of each director.
-5. ecrc.csv: Contains the people in the ECRC that are being thanked
-6. facilities.csv: Contains the people in facilities that are being thanked.
+
++ administration.csv: This file contains the names and titles of those in the college administration being thanked.
++ chairs.csv: This file contains the names and committees of each chair on Career Fair. Note the formatting as it is slightly non-standard.
++ companiesYYYY.csv: This file contains the company registration data from which basically everything is assembled. The program is somewhat robust to formatting here, as it checks the header row to locate what information is where. It’s still a program however, and if it doesn’t know that the company name is abbreviated “comp_nm” (why would it?) it won’t find that information, so don’t change up the header labels if it can be avoided; and if you have to, make it sensible.
++ directors.csv: Contains the names, society affiliation and signature file (no extension) of each director.
++ ecrc.csv: Contains the people in the ECRC that are being thanked
++ facilities.csv: Contains the people in facilities that are being thanked.
+
 Each of these file names can be changed, but you’ll have to tell the program at run-time what file it is. It’s easiest to just use these file names, apart from the companies list.
 
 ## Directory Text Folder
