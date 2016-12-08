@@ -27,33 +27,35 @@ Contains spreadsheets of data (csv formatted). Excel format will not work, csv i
 
 Each of these file names can be changed, but you’ll have to tell the program at run-time what file it is. It’s easiest to just use these file names, apart from the companies list.
 
-## Directory Text Folder
+### Directory Text Folder
 This folder contains text files with the welcome letter from the directors as well as each of the sponsor letters. Note that the files are text format (not Word). By default, it assumes 3 Sponsor letters, since the file names use the current year, you’ll have to specify these at run time (or tweak the code).
 
-## Directory Tex Files Folder
+### Directory Tex Files Folder
 This folder will contain the tex files output by running the program. These include “Directory_M_DD.tex”, “BinderCover.tex”, and a lot of process files (.log,.aux, .synctex.gz, .out, and others). There are also a number of static files that are stored here.
-1. AuxiliaryStuff.tex: Defines some of the default style things. Go in and change the year to the present (ctrl+F to make sure you find all of them). Other than that, you shouldn’t need to make any modifications.
-2. FontPage.tex: This is the tex file that defines the front page of the binder. You don’t need to worry about most of this, just go in and change the year and dates. Further, change the logo file, the one currently in there is named “christie_vector_no_text”. The image file referred to should be in a vector (.pdf, or .eps) format and be located in the Directory Images folder.
-3. MapAndShit.tex: This is the file which contains the code for the page that has the map and…shit… on it. At any event, unless you change the list of majors, buildings, or hiring policies, you shouldn’t even need to open this.
 
-## Directory Webpage Folder
++ AuxiliaryStuff.tex: Defines some of the default style things. Go in and change the year to the present (ctrl+F to make sure you find all of them). Other than that, you shouldn’t need to make any modifications.
++ FontPage.tex: This is the tex file that defines the front page of the binder. You don’t need to worry about most of this, just go in and change the year and dates. Further, change the logo file, the one currently in there is named “christie_vector_no_text”. The image file referred to should be in a vector (.pdf, or .eps) format and be located in the Directory Images folder.
++ MapAndShit.tex: This is the file which contains the code for the page that has the map and…shit… on it. At any event, unless you change the list of majors, buildings, or hiring policies, you shouldn’t even need to open this.
+
+### Directory Webpage Folder
 This contains auxiliary files used to present the company data table. In particular there are 2 CSS files (bootstrap.css and bookswap.css) which define the presentation, and 4 Javascript files (bootstrap.min.js, jquery.js, sort_filter_table.js, and sticky-header.js) which enable certain types of interactivity (sorting/filtering the table and sticking the table header to the top of the screen, for instance). Nothing needs to change here, so let’s move on.
 
-## Directory Images Folder
+### Directory Images Folder
 This file contains the images used in generating the directory, as well as a repository of company logos for use should any company be difficult to acquire a high-res logo from. The naming scheme can be specified at runtime but should also be reasonably apparent from the files present (gold, platinum, diamond sponsor logo files as well as the SWE and TBP and CF logos, and the Director signature files are present, among others).
 
 ## Actually Running the Tool
 Python, like C++ if you remember ENGR 101, is run from the command line. On Mac or Linux this will be much like it was in 101. On Windows, things are unsurprisingly different. First go ahead and open the command prompt (cmd on Windows).
 
-## How to get help
+### How to get help
 Navigate to the directory you’ve set up and drop into the scripts directory (cd is the command to change directories). Then run “python CF_SpreadsheetReader.py –help”. (Note: you may need to modify your path variables to do this. If you’re not sure what that means, you should ask a CS major or just replace the word “python” with the full path to where the python executable lives—likely C:\Python27\python.exe). This will pull up the help menu and will explain what the different runtime options are and how to use them. In all honesty as you’ll be running this quite a bit, it’s actually easier to just go in and modify the code. We’ll get to that later. Figure 2 shows the output resulting from running the help command. Note that most of the options are just specifying the file names we’ve previously covered. It also notes what the default values are for each so that you have an idea of what you’ll need to modify. Finally it notes how to actually go about specifying those options “—option1 <value> --option2 <value>”. Let’s assume you’ve got these all specified, the next step is to, well, actually run the thing.
 
-## The part where you actually run it
+### The part where you actually run it
 Assuming the code is in its default state running the program will do 4 things.
-1. Generate the .tex file containing all of the directory data.
-2. Compiling said .tex file into a pdf that can be used.
-3. Generating a .tex file for the binder covers (this one doesn’t compile by default as it’s a much simpler document)
-4. Generates the html file containing the company “spreadsheet”
++ Generate the .tex file containing all of the directory data.
++ Compiling said .tex file into a pdf that can be used.
++ Generating a .tex file for the binder covers (this one doesn’t compile by default as it’s a much simpler document)
++ Generates the html file containing the company “spreadsheet”
+
 To actually run the code, type “python CF_SpreadsheetReader.py” and click enter. It will take a while as there is a bunch of data, but it should generate everything you need. The most expensive part of the operation is generating the pdf from the .tex files. When it finishes, it will copy the final version of the pdf out into the main level of the D&R directory with the name “Current_Directory.pdf”. It will leave the BinderCover.tex and the html files in-place.
 
 Here is a sample command line: 
