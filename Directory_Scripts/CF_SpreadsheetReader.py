@@ -85,13 +85,13 @@ def make_binder_covers(Monday,Tuesday):
     \input{../Directory_Tex_files/BinderCover.tex}
     \begin{document}''')
     for company in Monday:
-        name = company["NAME"]
+        name = company["NAME"].replace("&", "\\&")
         if len(name) >50:
             name = r'''{\fontsize{30}{36}\selectfont '''+name+'}'
         gen_binder_covers.write(r'''\companybindercover{%(name)s}
     '''%{'name':name})
     for company in Tuesday:
-        name = company["NAME"]
+        name = company["NAME"].replace("&", "\\&")
         if len(name) >50:
             name = r'''{\fontsize{30}{36}\selectfont '''+name+'}'
         gen_binder_covers.write(r'''\companybindercover{%(name)s}
