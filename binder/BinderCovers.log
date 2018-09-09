@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6745 64-bit) (preloaded format=xelatex 2018.7.27)  7 SEP 2018 12:07
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6745 64-bit) (preloaded format=xelatex 2018.7.27)  9 SEP 2018 10:43
 entering extended mode
 **./BinderCovers.tex
 (BinderCovers.tex
@@ -1321,15 +1321,15 @@ LaTeX Info: Redefining \selectfont on input line 7.
 . Roman/BI/OT:script=latn;language=DFLT;+smcp;"
 .................................................
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 7.
+(Font)              <7> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 7.
+(Font)              <5> on input line 8.
 File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
 <../Directory_Images/SWE_GEAR.png>
-File: ../Directory_Images/RotatedBent.pdf Graphic file (type pdf)
-<use ../Directory_Images/RotatedBent.pdf>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
 
  []
 
@@ -1345,10 +1345,10 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 ]
 File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
 <../Directory_Images/SWE_GEAR.png>
-File: ../Directory_Images/RotatedBent.pdf Graphic file (type pdf)
-<use ../Directory_Images/RotatedBent.pdf>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--8
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
 
  []
 
@@ -1357,10 +1357,10 @@ File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
 [2]
 File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
 <../Directory_Images/SWE_GEAR.png>
-File: ../Directory_Images/RotatedBent.pdf Graphic file (type pdf)
-<use ../Directory_Images/RotatedBent.pdf>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--9
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
 
  []
 
@@ -1369,10 +1369,10 @@ File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
 [3]
 File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
 <../Directory_Images/SWE_GEAR.png>
-File: ../Directory_Images/RotatedBent.pdf Graphic file (type pdf)
-<use ../Directory_Images/RotatedBent.pdf>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--10
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
 
  []
 
@@ -1381,32 +1381,4040 @@ File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
 [4]
 File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
 <../Directory_Images/SWE_GEAR.png>
-File: ../Directory_Images/RotatedBent.pdf Graphic file (type pdf)
-<use ../Directory_Images/RotatedBent.pdf>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--11
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
 
  []
 
 File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
 <../Directory_Images/illuminate_2018_cf_logo.png>
 [5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 12.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 12.
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[6]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[7]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[8]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[9]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[10]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[11]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[12]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[13]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[14]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[15]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[16]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[17]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[18]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[19]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[20]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[21]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[22]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[23]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[24]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[25]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[26]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[27]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[28]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[29]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[30]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[31]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[32]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[33]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[34]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[35]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[36]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[37]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[38]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[39]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[40]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[41]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[42]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[43]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[44]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[45]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[46]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[47]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[48]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[49]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[50]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[51]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[52]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[53]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[54]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[55]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[56]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[57]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[58]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[59]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[60]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[61]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[62]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[63]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[64]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[65]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[66]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[67]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[68]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[69]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[70]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[71]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[72]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[73]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[74]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[75]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[76]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[77]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[78]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[79]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[80]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[81]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[82]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[83]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[84]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[85]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[86]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[87]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[88]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[89]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[90]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[91]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[92]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[93]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[94]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[95]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[96]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[97]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[98]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[99]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[100]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[101]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[102]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[103]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[104]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[105]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[106]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[107]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[108]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[109]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[110]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[111]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--119
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[112]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[113]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[114]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[115]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[116]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[117]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--125
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[118]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[119]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--127
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[120]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[121]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[122]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[123]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--131
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[124]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[125]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[126]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--134
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[127]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[128]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[129]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[130]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[131]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[132]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[133]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--141
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[134]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[135]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[136]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[137]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[138]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[139]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[140]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[141]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[142]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[143]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[144]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[145]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--153
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[146]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[147]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[148]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[149]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[150]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[151]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--159
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[152]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[153]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--161
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[154]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[155]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[156]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[157]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--165
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[158]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[159]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--167
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[160]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[161]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--169
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[162]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[163]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[164]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[165]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[166]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[167]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[168]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[169]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--177
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[170]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[171]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[172]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--180
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[173]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[174]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[175]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[176]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--184
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[177]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[178]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--186
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[179]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[180]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--188
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[181]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[182]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[183]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[184]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[185]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--193
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[186]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--194
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[187]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[188]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[189]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[190]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[191]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[192]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--200
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[193]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[194]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--202
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[195]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[196]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--204
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[197]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[198]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--206
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[199]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[200]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[201]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[202]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--210
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[203]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--211
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[204]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--212
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[205]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--213
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[206]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--214
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[207]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--215
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[208]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[209]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[210]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--218
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[211]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--219
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[212]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[213]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[214]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--222
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[215]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--223
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[216]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[217]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[218]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--226
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[219]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--227
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[220]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[221]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[222]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[223]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--231
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[224]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[225]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[226]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[227]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--235
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[228]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[229]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[230]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--238
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[231]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[232]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--240
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[233]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--241
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[234]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[235]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--243
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[236]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--244
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[237]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[238]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[239]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[240]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[241]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[242]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--250
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[243]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--251
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[244]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[245]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[246]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--254
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[247]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--255
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[248]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[249]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--257
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[250]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[251]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--259
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[252]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--260
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[253]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--261
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[254]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--262
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[255]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--263
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[256]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[257]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--265
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[258]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[259]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--267
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[260]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--268
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[261]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[262]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[263]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--271
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[264]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[265]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[266]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[267]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--275
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[268]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[269]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[270]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--278
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[271]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--279
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[272]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--280
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[273]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--281
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[274]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--282
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[275]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--283
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[276]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--284
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[277]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--285
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[278]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[279]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--287
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[280]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--288
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[281]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--289
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[282]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--290
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[283]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--291
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[284]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[285]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--293
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[286]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[287]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[288]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--296
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[289]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[290]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--298
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[291]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[292]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--300
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[293]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[294]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--302
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[295]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--303
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[296]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[297]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[298]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--306
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[299]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--307
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[300]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--308
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[301]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--309
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[302]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--310
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[303]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--311
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[304]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[305]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--313
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[306]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--314
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[307]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--315
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[308]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--316
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[309]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[310]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--318
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[311]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[312]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[313]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[314]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--322
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[315]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--323
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[316]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--324
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[317]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--325
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[318]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--326
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[319]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--327
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[320]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--328
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[321]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[322]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--330
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[323]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--331
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[324]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--332
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[325]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--333
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[326]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--334
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[327]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--335
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[328]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[329]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--337
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[330]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--338
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[331]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--339
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[332]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--340
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[333]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--341
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[334]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--342
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[335]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--343
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[336]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[337]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 345--345
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[338]
+File: ../Directory_Images/SWE_GEAR.png Graphic file (type bmp)
+<../Directory_Images/SWE_GEAR.png>
+File: ../Directory_Images/RotatedBentwWords.pdf Graphic file (type pdf)
+<use ../Directory_Images/RotatedBentwWords.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--346
+
+ []
+
+File: ../Directory_Images/illuminate_2018_cf_logo.png Graphic file (type bmp)
+<../Directory_Images/illuminate_2018_cf_logo.png>
+[339]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 347.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 347.
  (BinderCovers.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 12.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 12.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 347.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 347.
 Package rerunfilecheck Info: File `BinderCovers.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 12.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 347.
  ) 
 Here is how much of TeX's memory you used:
  30890 strings out of 427798
- 596407 string characters out of 3151797
- 678382 words of memory out of 3000000
+ 596459 string characters out of 3151797
+ 678369 words of memory out of 3000000
  34537 multiletter control sequences out of 15000+200000
  535864 words of font info for 48 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  56i,11n,65p,425b,443s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on BinderCovers.pdf (5 pages).
+Output written on BinderCovers.pdf (339 pages).

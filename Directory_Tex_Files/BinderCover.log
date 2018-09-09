@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6745 64-bit) (preloaded format=xelatex 2018.7.27)  7 SEP 2018 12:07
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6745 64-bit) (preloaded format=xelatex 2018.7.27)  9 SEP 2018 10:41
 entering extended mode
 **./BinderCover.tex
 (BinderCover.tex
@@ -23,11 +23,11 @@ between \documentclass and \begin{document}.
 
  
 Here is how much of TeX's memory you used:
- 12 strings out of 427798
- 136 string characters out of 3151797
+ 11 strings out of 427798
+ 131 string characters out of 3151797
  63035 words of memory out of 3000000
- 4107 multiletter control sequences out of 15000+200000
+ 4106 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 7i,0n,7p,99b,14s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 7i,0n,7p,107b,14s stack positions out of 5000i,500n,10000p,200000b,50000s
 No pages of output.
